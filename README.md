@@ -26,6 +26,6 @@ MIT
 
 | Name                  | Country               | Programming Language           |
 |-----------------------|-----------------------|--------------------------------|
-| Owais Ali             | Pakistan              | C++                            |
+| Owais Ali             | Pakistan              | JAVA                           |
 
 
