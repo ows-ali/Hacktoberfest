@@ -24,9 +24,10 @@ MIT
 
 ## Contributors
 
-| Name                  | Country               | Programming Language           |
-|-----------------------|-----------------------|--------------------------------|
-| Owais Ali             | Pakistan              | JAVA                           |
-| Yuibun                | United States         | C++                            |
+| Name                                                              | Country               | Programming Language           |
+|-------------------------------------------------------------------|-----------------------|--------------------------------|
+| [Owais Ali](https://github.com/owaisalics/)                       | Pakistan              | JAVA                           |
+| [Yuibun](https://github.com/yuibun/)                              | United States         | C++                            |
+
 
 
