@@ -24,8 +24,10 @@ MIT
 
 ## Contributors
 
-| Name                  | Country               | Programming Language           |
-|-----------------------|-----------------------|--------------------------------|
-| Owais Ali             | Pakistan              | JAVA                           |
+
+
+| Name                                                              | Country               | Programming Language           |
+|-------------------------------------------------------------------|-----------------------|--------------------------------|
+| [Owais Ali](https://github.com/owaisalics/)                       | Pakistan              | JAVA                           |
 
 
