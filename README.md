@@ -29,4 +29,5 @@ MIT
 | [Owais Ali](https://github.com/owaisalics/)                       | Pakistan              | JAVA                           |
 | [Yuibun](https://github.com/yuibun/)                              | United States         | C++                            |
 | [Roopam Sharma](https://github.com/RoopamSharma/)                 | United States         | Python3                        |
-| [Cass Smith](https://github.com/cassvs/)			    | Canada		    | C				     |
+| [Cass Smith](https://github.com/cassvs/)			                    | Canada		            | C				                       |
+| [Advait Joshi](https://github.com/joshiadvait8/)                  | India                 | C++                            |
