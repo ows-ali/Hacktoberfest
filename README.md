@@ -13,14 +13,12 @@ You can find the problem statement of above solutions on [Hackerrank](https://ha
 https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 
 ### How to Contribute
-For contributions in this repostiory, please read CONTRIBUTIONS.md first.
+- For contributions in this repostiory, please read CONTRIBUTIONS.md first.
+- If you like the repository please star it.
 
 ### Learning Resources
 
 [Creating a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-
-### License
-MIT
 
 ## Contributors
 
@@ -31,3 +29,8 @@ MIT
 | [Roopam Sharma](https://github.com/RoopamSharma/)                 | United States         | Python3                        |
 | [Cass Smith](https://github.com/cassvs/)			                    | Canada		            | C				                       |
 | [Advait Joshi](https://github.com/joshiadvait8/)                  | India                 | C++                            |
+
+
+
+### License
+MIT
