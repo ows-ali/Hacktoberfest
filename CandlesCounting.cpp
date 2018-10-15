@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/candles-2/problem
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
