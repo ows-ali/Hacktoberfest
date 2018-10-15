@@ -29,7 +29,7 @@ https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 | [Roopam Sharma](https://github.com/RoopamSharma/)                 | United States         | Python3                        |
 | [Cass Smith](https://github.com/cassvs/)			                    | Canada		            | C				                       |
 | [Advait Joshi](https://github.com/joshiadvait8/)                  | India                 | C++                            |
-
+| [Archana Prabhu](https://github.com/ArchanaPrabhu/)               | India                 | C++                            |
 
 
 ### License
