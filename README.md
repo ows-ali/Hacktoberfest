@@ -23,7 +23,9 @@ https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 ### Learning Resources
 
 [Creating a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+
 [Learn the Git basics](https://try.github.io)
+
 ## Contributors
 
 | Name                                                              | Country               | Programming Language           |
