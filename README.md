@@ -1,5 +1,9 @@
 # Hacktoberfest
 
+[![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/issues)
+[![GitHub issues by-label](https://img.shields.io/github/issues/ows-ali/Hacktoberfest/help%20wanted.svg)](https://github.com/ows-ali/Hacktoberfest/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+
 This repositry is mainly open to those who are willing to generate PR for Hacktoberfest to get started with GitHub and open source world.
 In this repository, you can find the solution code of problems from [Hackerrank](https://hackerrank.com).
 
@@ -33,4 +37,5 @@ https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 
 
 ### License
-MIT
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
