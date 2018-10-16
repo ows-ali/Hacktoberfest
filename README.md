@@ -40,7 +40,7 @@ https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 | [Archana Prabhu](https://github.com/ArchanaPrabhu/)               | India                 | C++                            |
 | [Carlos Gomez](https://github.com/Kurolox/)                       | Spain                 |                                |
 | [Saiij](https://github.com/Saiij/)                                | Germany               | JavaScript                     |
-
+| [Apurva](https://github.com/alonemayank)                          | United States         | Java                           |
 
 ### License
 
