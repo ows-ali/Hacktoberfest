@@ -12,15 +12,12 @@ In this repository, you can find the solution code of problems from [Hackerrank]
 ### Why contribute to this repository
 - Beginners Friendly
 - You can generate your first PR on GitHub
-- You can start with any problem of your choice on [Hackerrank](https://hackerrank.com)
+- You can start with any problem of your choice on [Hackerrank](https://hackerrank.com), [Codechef](https://codechef.com)
 - Good Chance to Win a T-Shirt by participating in [Hacktoberfest](hacktoberfest.digitalocean.com)
 
-You can find the problem statement of above solutions on [Hackerrank](https://hackerrank.com) by going to:
-https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
-
-### How to Contribute
-- For contributions in this repostiory, please read CONTRIBUTIONS.md first.
-- If you like the repository please star it.
+### How to Contribute (Updated)
+- For contributions in this repostiory, please read CONTRIBUTIONS.md first. (Please pull the changes from this repo if you have already forked the repository and facing conflicts)
+- If you like the repository, please star it.
 
 ### Learning Resources
 
@@ -38,10 +35,14 @@ https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 | [Cass Smith](https://github.com/cassvs/)                          | Canada	              | C				                       |
 | [Advait Joshi](https://github.com/joshiadvait8/)                  | India                 | C++                            |
 | [Archana Prabhu](https://github.com/ArchanaPrabhu/)               | India                 | C++                            |
-| [Carlos Gomez](https://github.com/Kurolox/)                       | Kurolox               |                                |
+| [Aman Sharma](https://github.com/amsharma44/)                     | India                 | C#                             |
+| [Carlos Gomez](https://github.com/Kurolox/)                       | Spain                 |                                |
+| [Jason Aiken](https://github.com/sinuoustalker/)                  | United States         |                                |
 | [Saiij](https://github.com/Saiij/)                                | Germany               | JavaScript                     |
+| [Apurva](https://github.com/alonemayank)                          | United States         | Java                           |
 
 ## Contributor Pictures
+
 | Name              |                                                                            |
 |-------------------|----------------------------------------------------------------------------|
 | Owais Ali         | <img src="https://github.com/ows-ali.png" width="100" height="100">        |
