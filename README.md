@@ -39,6 +39,7 @@ https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 | [Advait Joshi](https://github.com/joshiadvait8/)                  | India                 | C++                            |
 | [Archana Prabhu](https://github.com/ArchanaPrabhu/)               | India                 | C++                            |
 | [Carlos Gomez](https://github.com/Kurolox/)                       | Spain                 |                                |
+| [Jason Aiken](https://github.com/sinuoustalker/)                  | United States         |                                |
 | [Saiij](https://github.com/Saiij/)                                | Germany               | JavaScript                     |
 
 
