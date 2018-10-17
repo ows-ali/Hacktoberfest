@@ -11,7 +11,7 @@ hackkerrank.com/challenges/PROBLEM_NAME/problem
 codechef.com/problems/PROBLEM_NAME
 and so on
 it will be redirected to the actual problem page)
-- Place your source code file in respective folder
+- Place your source code file in respective folder (you can create a new folder if it is not present)
 - Optional - You can add comments at the start of the file, if you want to share something, like steps to run the code etc
 - Add and commit the changes. (Please do not make changes in any other file, but if you want to work on bug/improvement then add an issue first)
 - Don't forget to add your name, country and the language used in contributors table in the README.md file
