@@ -38,6 +38,7 @@ https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 | [Cass Smith](https://github.com/cassvs/)                          | Canada	            | C				                 |
 | [Advait Joshi](https://github.com/joshiadvait8/)                  | India                 | C++                            |
 | [Archana Prabhu](https://github.com/ArchanaPrabhu/)               | India                 | C++                            |
+| [Aman Sharma](https://github.com/amsharma44/)                     | India                 | C#                             |
 | [Carlos Gomez](https://github.com/Kurolox/)                       | Spain                 |                                |
 | [Saiij](https://github.com/Saiij/)                                | Germany               | JavaScript                     |
 | [Apurva](https://github.com/alonemayank)                          | United States         | Java                           |
