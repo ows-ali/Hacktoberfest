@@ -41,6 +41,8 @@ In this repository, you can find the solution code of problems from [Hackerrank]
 | [Saiij](https://github.com/Saiij/)                                | Germany               | JavaScript                     |
 | [Apurva](https://github.com/alonemayank)                          | United States         | Java                           |
 | [Camila](https://github.com/milaaraujo)                           | Canada                | C++                            |
+| [Mohammad Sameer](https://github.com/m-sameer)                   	| India         		    | Java, C++                      |
+
 
 ### License
 
