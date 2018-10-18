@@ -72,7 +72,7 @@ int main()
 			{
 				if(2 == (temp2^(it1->first)))
 				{
-					cout << "+2   " << temp2 << "   " << it1->first << "    " << (temp2^(it1->first)) << endl;
+//					cout << "+2   " << temp2 << "   " << it1->first << "    " << (temp2^(it1->first)) << endl;
 					neg+=temp*it->second; 
 				}
 			}
@@ -82,7 +82,7 @@ int main()
 			{
 				if(2 == (temp2^(it1->first)))
 				{
-					cout << "-2   " << temp2 << "   " << it1->first << "    " << (temp2^(it1->first)) << endl;
+//					cout << "-2   " << temp2 << "   " << it1->first << "    " << (temp2^(it1->first)) << endl;
 					neg+=temp*it->second;
 				}
 			}
@@ -93,7 +93,8 @@ int main()
 
 		ans = nC2(evn) +nC2(odd)-neg;
 		cout << ans << endl;
-		cout <<evn << "   " << nC2(evn) << "   " <<odd << "   " << nC2(odd) << "   " << neg << "   "  <<ans << endl;
+//		cout <<evn << "   " << nC2(evn) << "   " <<odd << "   " << nC2(odd) << "   " << neg << "   "  <<ans << endl;
 	}
 	return 0;
 }
+
