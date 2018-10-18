@@ -43,6 +43,7 @@ In this repository, you can find the solution code of problems from [Hackerrank]
 | [Camila](https://github.com/milaaraujo) <br> <img src="https://github.com/milaaraujo.png" width="100" height="100">                | Canada                | C++                            |
 | [Mohammad Sameer](https://github.com/m-sameer) <br> <img src="https://github.com/m-sameer.png" width="100" height="100">           | India         		     | Java, C++                      |
 | [Anubhav Gupta](https://github.com/theanubhava) <br> <img src="https://github.com/theanubhava.png" width="100" height="100">       | India         		     | Java,                          |
+| [Inzemam Ul-Haq](https://github.com/Virusthegreat) <br> <img src="https://github.com/Virusthegreat.png" width="100" height="100">  | India          	     | C++                            |
 
 
 ### License
