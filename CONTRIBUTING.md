@@ -3,7 +3,7 @@
 
 - Fork this repository - [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - Clone the forked repository into local space
-- Choose any task on [Hackerrank](hackerrank.com), [Codechef](codechef.com) or any other online platform and solve it, (or choose your already solved question)
+- Choose any task on [Hackerrank](https://www.hackerrank.com/), [Codechef](https://www.codechef.com/) or any other online platform and solve it, (or choose your already solved question)
 - Paste the solution code in new file and name it in following format:
 PROBLEM_NAME.[Format of language used in your code]
 (you should match it with the url, such that when a user type the url 
