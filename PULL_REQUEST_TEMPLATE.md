@@ -1,10 +1,7 @@
-###### Closing Issue 
+###### Closing Issue/Referencing Issue
 issue reference (#) 
 
 ###### Changes Made In Pull Request
 
 *
 *
-
-###### Reviewed by 
-@ reviewerName
