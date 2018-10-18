@@ -40,6 +40,7 @@ In this repository, you can find the solution code of problems from [Hackerrank]
 | [Jason Aiken](https://github.com/sinuoustalker/)                  | United States         |                                |
 | [Saiij](https://github.com/Saiij/)                                | Germany               | JavaScript                     |
 | [Apurva](https://github.com/alonemayank)                          | United States         | Java                           |
+| [Camila](https://github.com/milaaraujo)                           | Canada                | C++                            |
 
 ### License
 
