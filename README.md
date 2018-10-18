@@ -45,7 +45,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Anubhav Gupta](https://github.com/theanubhava) <br> <img src="https://github.com/theanubhava.png" width="100" height="100">       | India                 | Java,                          |
 | [Inzemam Ul-Haq](https://github.com/Virusthegreat) <br> <img src="https://github.com/Virusthegreat.png" width="100" height="100">  | India          	     | C++                            |
 | [Bertram Truong](https://github.com/bt) <br> <img src="https://github.com/bt.png" width="100" height="100">                        | Australia             |                                |
-| [Advaya Andhare](https://github.com/advaya08)	<br> <img src="https://github.com/git_advaya.png" width="100 "height="100">	     | India		     | C++
+| [Advaya Andhare](https://github.com/advaya08)	<br> <img src="https://avatars2.githubusercontent.com/u/32246954?s=460&v=4" width="100 "height="100">	     | India		     | C++
 
 
 ### License
