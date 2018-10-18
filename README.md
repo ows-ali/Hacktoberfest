@@ -36,6 +36,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Advait Joshi](https://github.com/joshiadvait8/) <br> <img src="https://github.com/joshiadvait8.png" width="100" height="100">     | India                 | C++                            |
 | [Archana Prabhu](https://github.com/ArchanaPrabhu/) <br> <img src="https://github.com/ArchanaPrabhu.png" width="100" height="100"> | India                 | C++                            |
 | [Aman Sharma](https://github.com/amsharma44/) <br> <img src="https://github.com/amsharma44.png" width="100" height="100">          | India                 | C#                             |
+| [Briana Baker](https://github.com/brianabaker) <br> <img src="https://github.com/brianabaker.png" width="100" height="100">        | United States                 | JavaScript                  |
 | [Carlos Gomez](https://github.com/Kurolox/) <br> <img src="https://github.com/Kurolox.png" width="100" height="100">               | Spain                 |                                |
 | [Jason Aiken](https://github.com/sinuoustalker/) <br> <img src="https://github.com/sinuoustalker.png" width="100" height="100">    | United States         |                                |
 | [Saiij](https://github.com/Saiij/) <br> <img src="https://github.com/Saiij.png" width="100" height="100">                          | Germany               | JavaScript                     |
