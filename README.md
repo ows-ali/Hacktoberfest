@@ -27,7 +27,7 @@ In this repository, you can find the solution code of problems from [Hackerrank]
 
 ## Contributors
 
-| Name                                                                                                                               | Country               | Programming                    | Where to find you<br><sup>(add all links to your loved profiles eg Hackerrank, Codechef...)</sup>|
+| Name                                                                                                                               | Country               | Programming                    | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|----------------------------|
 | [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |                            |
 | [Yuibun](https://github.com/yuibun/) <br> <img src="https://github.com/yuibun.png" width="100" height="100">                       | United States         | C++                            |                            |
