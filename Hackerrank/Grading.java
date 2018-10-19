@@ -1,5 +1,5 @@
 /**
-* https://www.hackerrank.com/challenges/grading/copy-from/70633081
+* https://www.hackerrank.com/challenges/grading/problem
 **/
 
 import java.io.*;
