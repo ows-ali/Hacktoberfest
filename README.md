@@ -53,6 +53,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Shashwat Garg](https://github.com/Shashwat-Garg) <br> <img src="https://github.com/Shashwat-Garg.png" width="100" height="100">   | India         	       | Python                         |                                                                                               |
 | [Nicholas Chambers](https://github.com/ntchambers) <br> <img src="https://github.com/ntchambers.png" width="100" height="100">     | United States 	       | C                              |                                                                                               |
 | [Abhishek Mishra](https://github.com/karma200020)	<br> <img src="https://github.com/karma200020.png" width="100" height="100">		 | India		             | Java, C++                      |                                                                                               |
+| [Josh Buckland](https://github.com/buck06191 <br> <img src="https://github.com/buck06191.png" width="100" height="100">            | United Kingdom        |                                |                                                                                               |
+
 
 ### License
 
