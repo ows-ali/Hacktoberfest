@@ -10,7 +10,7 @@ newIssueWelcomeComment: >
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  Hey ows-ali/Hacktoberfest can see that this is your first pull request! Keep going, you are going nail it! :D
+  Hey ows-ali/Hacktoberfest can see that this is your first pull request! Keep going, you are going to nail it! :D
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
