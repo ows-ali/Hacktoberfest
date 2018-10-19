@@ -1,5 +1,5 @@
 /**
-* https://www.hackerrank.com/challenges/java-md5/copy-from/82751305
+* https://www.hackerrank.com/challenges/java-md5/problem
 **/
 
 import java.io.*;
