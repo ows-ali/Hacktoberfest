@@ -1,5 +1,5 @@
 /**
-* https://www.hackerrank.com/challenges/birthday-cake-candles/copy-from/64241890
+* https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 **/
 
 import java.io.*;
