@@ -51,6 +51,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Advaya Andhare](https://github.com/advaya08)	<br> <img src="https://github.com/advaya08.png" width="100" height="100">						 | India		             | C++                            |                                                                                               |
 | [Shashwat Garg](https://github.com/Shashwat-Garg) <br> <img src="https://github.com/Shashwat-Garg.png" width="100" height="100">   | India         	       | Python                         |                                                                                               |
 | [Nicholas Chambers](https://github.com/ntchambers) <br> <img src="https://github.com/ntchambers.png" width="100" height="100">     | United States 	       | C                              |                                                                                               |
+| [Abhishek Mishra](https://github.com/karma200020)	<br> <img src="https://github.com/karma200020.png" width="100" height="100">		 | India		             | Java, C++                      |                                                                                               |
 
 ### License
 
