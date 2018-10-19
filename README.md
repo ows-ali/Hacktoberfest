@@ -55,7 +55,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Abhishek Mishra](https://github.com/karma200020)	<br> <img src="https://github.com/karma200020.png" width="100" height="100">		 | India		             | Java, C++                      |                                                                                               |
 | [Ricardo Jacinto](https://github.com/cadohr) <br> <img src="https://github.com/cadohr.png" width="100" height="100">               | Brazil                | PHP                            |                                                                                               |
 | [Josh Buckland](https://github.com/buck06191) <br> <img src="https://github.com/buck06191.png" width="100" height="100">           | United Kingdom        |                                |                                                                                               |
-
+| [H Shay](https://github.com/H-Shay) <br> <img src="https://github.com/H-Shay.png" width="100" height="100">                        | United States         | Java                           | 
 
 ### License
 
