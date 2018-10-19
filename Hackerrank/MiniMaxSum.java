@@ -1,5 +1,5 @@
 /**
-* https://www.hackerrank.com/challenges/mini-max-sum/copy-from/64241630
+* https://www.hackerrank.com/challenges/mini-max-sum/problem
 **/
 
 import java.io.*;
