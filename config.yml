@@ -4,13 +4,13 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  I see that this is your first issue ever. Thanks for opening your first issue here! 
+  Hey there! I see that this is your first issue ever. Thanks a lot for opening your first issue here! :)
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  Hey ows-ali/Hacktoberfest can see that this is your first pull request! Keep going, you rock!
+  Hey ows-ali/Hacktoberfest can see that this is your first pull request! Keep going, you are going to nail it! :D
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
