@@ -32,7 +32,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |
 | [Yuibun](https://github.com/yuibun/) <br> <img src="https://github.com/yuibun.png" width="100" height="100">                       | United States         | C++                            |
 | [Roopam Sharma](https://github.com/RoopamSharma/) <br> <img src="https://github.com/RoopamSharma.png" width="100" height="100">    | United States         | Python3                        |
-| [Cass Smith](https://github.com/cassvs/) <br> <img src="https://github.com/cassvs.png" width="100" height="100">                   | Canada	             | C		              |
+| [Cass Smith](https://github.com/cassvs/) <br> <img src="https://github.com/cassvs.png" width="100" height="100">                   | Canada	             | C		                      |
 | [Advait Joshi](https://github.com/joshiadvait8/) <br> <img src="https://github.com/joshiadvait8.png" width="100" height="100">     | India                 | C++                            |
 | [Archana Prabhu](https://github.com/ArchanaPrabhu/) <br> <img src="https://github.com/ArchanaPrabhu.png" width="100" height="100"> | India                 | C++                            |
 | [Aman Sharma](https://github.com/amsharma44/) <br> <img src="https://github.com/amsharma44.png" width="100" height="100">          | India                 | C#                             |
@@ -45,7 +45,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Anubhav Gupta](https://github.com/theanubhava) <br> <img src="https://github.com/theanubhava.png" width="100" height="100">       | India                 | Java,                          |
 | [Inzemam Ul-Haq](https://github.com/Virusthegreat) <br> <img src="https://github.com/Virusthegreat.png" width="100" height="100">  | India          	     | C++                            |
 | [Bertram Truong](https://github.com/bt) <br> <img src="https://github.com/bt.png" width="100" height="100">                        | Australia             |                                |
-| [Nicholas Chambers](https://github.com/ntchambers) <br> <img src="https://github.com/ntchambers.png" width="100" height"100">      | United States         | C                              |
+| [Nicholas Chambers](https://gitlab.com/ntchambers) <br> <img src="https://github.com/ntchambers.png" width="100" height"100">      | United States         | C                              |
 
 
 ### License
