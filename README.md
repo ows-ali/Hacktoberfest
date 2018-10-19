@@ -27,25 +27,25 @@ In this repository, you can find the solutions (as source code) for the problems
 
 ## Contributors
 
-| Name                                                                                                                               | Country               | Programming Language           |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|
-| [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |
-| [Yuibun](https://github.com/yuibun/) <br> <img src="https://github.com/yuibun.png" width="100" height="100">                       | United States         | C++                            |
-| [Roopam Sharma](https://github.com/RoopamSharma/) <br> <img src="https://github.com/RoopamSharma.png" width="100" height="100">    | United States         | Python3                        |
-| [Cass Smith](https://github.com/cassvs/) <br> <img src="https://github.com/cassvs.png" width="100" height="100">                   | Canada	             | C		              |
-| [Advait Joshi](https://github.com/joshiadvait8/) <br> <img src="https://github.com/joshiadvait8.png" width="100" height="100">     | India                 | C++                            |
-| [Archana Prabhu](https://github.com/ArchanaPrabhu/) <br> <img src="https://github.com/ArchanaPrabhu.png" width="100" height="100"> | India                 | C++                            |
-| [Aman Sharma](https://github.com/amsharma44/) <br> <img src="https://github.com/amsharma44.png" width="100" height="100">          | India                 | C#                             |
-| [Carlos Gomez](https://github.com/Kurolox/) <br> <img src="https://github.com/Kurolox.png" width="100" height="100">               | Spain                 |                                |
-| [Jason Aiken](https://github.com/sinuoustalker/) <br> <img src="https://github.com/sinuoustalker.png" width="100" height="100">    | United States         |                                |
-| [Saiij](https://github.com/Saiij/) <br> <img src="https://github.com/Saiij.png" width="100" height="100">                          | Germany               | JavaScript                     |
-| [Apurva](https://github.com/alonemayank) <br> <img src="https://github.com/alonemayank.png" width="100" height="100">              | United States         | Java                           |
-| [Camila](https://github.com/milaaraujo) <br> <img src="https://github.com/milaaraujo.png" width="100" height="100">                | Canada                | C++                            |
-| [Mohammad Sameer](https://github.com/m-sameer) <br> <img src="https://github.com/m-sameer.png" width="100" height="100">           | India         	     | Java, C++                      |
-| [Anubhav Gupta](https://github.com/theanubhava) <br> <img src="https://github.com/theanubhava.png" width="100" height="100">       | India                 | Java,                          |
-| [Inzemam Ul-Haq](https://github.com/Virusthegreat) <br> <img src="https://github.com/Virusthegreat.png" width="100" height="100">  | India          	     | C++                            |
-| [Bertram Truong](https://github.com/bt) <br> <img src="https://github.com/bt.png" width="100" height="100">                        | Australia             |                                |
-| [Ouassim Ben Mosbah](https://github.com/ouassimBenMosbah) <br> <img src="https://github.com/ouassimbenmosbah.png" width="100" height="100">       | Tunisia                 | JavaScript,                          |
+| Name                                                                                                                                         | Country             | Programming Language   |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|------------------------|
+| [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">                         | Pakistan            | JAVA                   |
+| [Yuibun](https://github.com/yuibun/) <br> <img src="https://github.com/yuibun.png" width="100" height="100">                                 | United States       | C++                    |
+| [Roopam Sharma](https://github.com/RoopamSharma/) <br> <img src="https://github.com/RoopamSharma.png" width="100" height="100">              | United States       | Python3                |
+| [Cass Smith](https://github.com/cassvs/) <br> <img src="https://github.com/cassvs.png" width="100" height="100">                             | Canada	             | C		                  |
+| [Advait Joshi](https://github.com/joshiadvait8/) <br> <img src="https://github.com/joshiadvait8.png" width="100" height="100">               | India               | C++                    |
+| [Archana Prabhu](https://github.com/ArchanaPrabhu/) <br> <img src="https://github.com/ArchanaPrabhu.png" width="100" height="100">           | India               | C++                    |
+| [Aman Sharma](https://github.com/amsharma44/) <br> <img src="https://github.com/amsharma44.png" width="100" height="100">                    | India               | C#                     |
+| [Carlos Gomez](https://github.com/Kurolox/) <br> <img src="https://github.com/Kurolox.png" width="100" height="100">                         | Spain               |                        |
+| [Jason Aiken](https://github.com/sinuoustalker/) <br> <img src="https://github.com/sinuoustalker.png" width="100" height="100">              | United States       |                        |
+| [Saiij](https://github.com/Saiij/) <br> <img src="https://github.com/Saiij.png" width="100" height="100">                                    | Germany             | JavaScript             |
+| [Apurva](https://github.com/alonemayank) <br> <img src="https://github.com/alonemayank.png" width="100" height="100">                        | United States       | Java                   |
+| [Camila](https://github.com/milaaraujo) <br> <img src="https://github.com/milaaraujo.png" width="100" height="100">                          | Canada              | C++                    |
+| [Mohammad Sameer](https://github.com/m-sameer) <br> <img src="https://github.com/m-sameer.png" width="100" height="100">                     | India         	     | Java, C++              |
+| [Anubhav Gupta](https://github.com/theanubhava) <br> <img src="https://github.com/theanubhava.png" width="100" height="100">                 | India               | Java,                  |
+| [Inzemam Ul-Haq](https://github.com/Virusthegreat) <br> <img src="https://github.com/Virusthegreat.png" width="100" height="100">            | India          	   | C++                    |
+| [Bertram Truong](https://github.com/bt) <br> <img src="https://github.com/bt.png" width="100" height="100">                                  | Australia           |                        |
+| [Ouassim Ben Mosbah](https://github.com/ouassimBenMosbah) <br> <img src="https://github.com/ouassimbenmosbah.png" width="100" height="100">  | Tunisia             | JavaScript             |
 
 ### License
 
