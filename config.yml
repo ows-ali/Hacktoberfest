@@ -4,18 +4,24 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  I see that this is your first issue ever. Thanks for opening your first issue here! 
+  Thanks for helping us improve and opening your first issue here! Someone will address it right away!
+
+  While you're waiting, I just wanted to make sure you've had a chance to look at our [Readme](https://github.com/ows-ali/Hacktoberfest/blob/master/README.md) and [Contributing Guidelines](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md).
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  Hey ows-ali/Hacktoberfest can see that this is your first pull request! Keep going, you rock!
+  I can tell this is your first pull request! Thank you I'm so honored. 🎉🎉🎉
+
+  I'll take a look at it ASAP!
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  Congrats on merging your first pull request! Keep it up!
+  Your code looks great! I've gone ahead and merged your first pull request! Keep it up!
+
+  ![alt text](https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif "WOOHOO")
 
 # It is recommend to include as many gifs and emojis as possible
