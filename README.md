@@ -59,8 +59,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [H Shay](https://github.com/H-Shay) <br> <img src="https://github.com/H-Shay.png" width="100" height="100">                        | United States         | Java                           |                                                                                               |
 | [Ouassim Ben Mosbah](https://github.com/ouassimBenMosbah) <br> <img src="https://github.com/ouassimBenMosbah.png" width="100" height="100">   | Tunisia    | Javascript                     |                                                                                               |
 | [Kalana Wijethunga](https://github.com/kdan-96) <br> <img src="https://github.com/kdan-96.png" width="100" height="100">           | Sri Lanka             |                                |                                                                                               |
-
-
+| [Sachin Bajpai](https://github.com/sachinbajpai100) <br> <img src ="https://avatars1.githubusercontent.com/u/36484627?v=4" width="100" height="100">  | India | C
+|
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
