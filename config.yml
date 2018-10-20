@@ -20,7 +20,7 @@ newPRWelcomeComment: >
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  Your code looks great! I've gone ahead and merged your first pull request! Keep it up!
+  Your code looks great! Congrats, I've gone ahead and merged your first pull request! Keep it up!
 
   ![alt text](https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif "WOOHOO")
 
