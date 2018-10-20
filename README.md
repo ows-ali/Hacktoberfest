@@ -28,6 +28,7 @@ MIT
 |-------------------------------------------------------------------|-----------------------|--------------------------------|
 | [Owais Ali](https://github.com/owaisalics/)                       | Pakistan              | JAVA                           |
 | [Yuibun](https://github.com/yuibun/)                              | United States         | C++                            |
+| [Avinash](https://github.com/Avinash369/)                         | India         	    | JavaScript                     |
 
 
 
