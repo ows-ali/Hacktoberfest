@@ -60,7 +60,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Ouassim Ben Mosbah](https://github.com/ouassimBenMosbah) <br> <img src="https://github.com/ouassimBenMosbah.png" width="100" height="100">   | Tunisia    | Javascript                     |                                                                                               |
 | [Kalana Wijethunga](https://github.com/kdan-96) <br> <img src="https://github.com/kdan-96.png" width="100" height="100">           | Sri Lanka         |                        |                                                                                               |
 | [Sachin Bajpai](https://github.com/sachinbajpai100) <br> <img src="https://github.com/sach.png" width="100" height="100">           | India | C |                                                                                               |
-
+| [Sachin Kmar Bajpai](https://github.com/sachinbajpai100) <br> <img src="https://github.com/sach.png" width="100" height="100">           | India | C |                                                                                               |
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
