@@ -33,11 +33,11 @@ https://hackerrank.com/challenges/[FILENAME_WITHOUT_EXTENSION]/problem
 | [Owais Ali](https://github.com/owaisalics/)                       | Pakistan              | JAVA                           |
 | [Yuibun](https://github.com/yuibun/)                              | United States         | C++                            |
 | [Roopam Sharma](https://github.com/RoopamSharma/)                 | United States         | Python3                        |
-| [Cass Smith](https://github.com/cassvs/)                          | Canada	            | C				                 |
+| [Cass Smith](https://github.com/cassvs/)                          | Canada	            | C				     |
 | [Advait Joshi](https://github.com/joshiadvait8/)                  | India                 | C++                            |
 | [Archana Prabhu](https://github.com/ArchanaPrabhu/)               | India                 | C++                            |
 | [Carlos Gomez](https://github.com/Kurolox/)                       | Kurolox               |                                |
-
+| [Vaibhav Gulati](https://github.com/gulvaibhav20/)                | India                 | C++                            |
 
 ### License
 
