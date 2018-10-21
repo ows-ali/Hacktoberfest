@@ -62,6 +62,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Kalana Wijethunga](https://github.com/kdan-96) <br> <img src="https://github.com/kdan-96.png" width="100" height="100">           | Sri Lanka             |                                |                                                                                               |
 | [Avinash](https://github.com/Avinash369/) <br> <img src="https://github.com/Avinash369.png" width="100" height="100">              | India            	   | JavaScript                     |                                                                                               |
 | [Keshi](https://github.com/anukeshi/) <br> <img src="https://avatars3.githubusercontent.com/u/30332391?s=400&u=cc49affc870c5bd6e41b76a1ffd57771dcfeb418&v=4" width="100" height="100">              | Sri Lanka            	   | Python                   |                                                                                               |
+| [nikofil](https://github.com/nikofil/) <br> <img src="https://avatars3.githubusercontent.com/u/5767669" width="100" height="100">              | Switzerland            	   | Python                   |                                                                                               |
 
 
 ### License
