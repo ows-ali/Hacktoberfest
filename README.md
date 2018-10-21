@@ -56,6 +56,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Ricardo Jacinto](https://github.com/cadohr) <br> <img src="https://github.com/cadohr.png" width="100" height="100">               | Brazil                | PHP                            |                                                                                               |
 | [Josh Buckland](https://github.com/buck06191) <br> <img src="https://github.com/buck06191.png" width="100" height="100">           | United Kingdom        |                                |                                                                                               |
 
+| [AmberRoberts](https://github.com/AmberRoberts) <br> <img src="https://avatars1.githubusercontent.com/u/37091996?s=460&v=4" width="100" height="100">           | United States        |      JavaScript                          |                                                                                               |
+
 
 ### License
 
