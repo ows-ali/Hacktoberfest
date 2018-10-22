@@ -66,6 +66,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Keshi](https://github.com/anukeshi/) <br> <img src="https://avatars3.githubusercontent.com/u/30332391?s=400&u=cc49affc870c5bd6e41b76a1ffd57771dcfeb418&v=4" width="100" height="100">              | Sri Lanka            	   | Python                   |                                                                                               |
 | [nikofil](https://github.com/nikofil/) <br> <img src="https://avatars3.githubusercontent.com/u/5767669" width="100" height="100">              | Switzerland            	   | Python                   |                                                                                               |
 | [AmberRoberts](https://github.com/AmberRoberts) <br> <img src="https://avatars1.githubusercontent.com/u/37091996?s=460&v=4" width="100" height="100">      | United States    | JavaScript  |                                                                                               |
+| [BenHargreaves](https://github.com/BenHargreaves/) <br> <img src="https://github.com/BenHargreaves.png" width="100" height="100">              | Canada            	   | Python                   |                                                                                               |
+| [arvydasdev](https://github.com/arvydasdev/) <br> <img src="https://avatars.githubusercontent.com/arvydasdev" width="100" height="100">        | Lithuania             | Java                   |                                                                                               |
 
 
 ### License
