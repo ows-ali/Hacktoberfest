@@ -19,6 +19,9 @@ In this repository, you can find the solutions (as source code) for the problems
 - For contributions in this repository, please read `CONTRIBUTING.md` first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
 - If you like the repository, please star it.
 
+Code Of Conduct:
+ -> People should try on their own to solve the issues and then create a pull request.
+
 ### Learning Resources
 
 [Creating a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
