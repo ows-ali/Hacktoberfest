@@ -9,6 +9,7 @@ import java.util.Scanner;
  * The first line contains string .
  * The second line contains string .
  * s1 and s2 consist of characters in the range ascii[a-z].
+ * https://www.hackerrank.com/challenges/two-strings/problem
  */
 public class TWO_STRINGS {
 
