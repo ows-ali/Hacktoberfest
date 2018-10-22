@@ -10,7 +10,7 @@ import java.util.Scanner;
  * The second line contains string .
  * s1 and s2 consist of characters in the range ascii[a-z].
  */
-public class TwoStrings {
+public class TWO_STRINGS {
 
     private final static String RANGE = "abcdefghijklmnopqrstuvwxyz";
 
@@ -26,7 +26,7 @@ public class TwoStrings {
     }
 
     public static void main(String[] args) {
-        TwoStrings twoStrings = new TwoStrings();
+        TWO_STRINGS twoStrings = new TWO_STRINGS();
         Scanner scanner = new Scanner(System.in);
         int p = Integer.parseInt(scanner.nextLine());
 
