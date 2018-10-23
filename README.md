@@ -57,6 +57,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Josh Buckland](https://github.com/buck06191) <br> <img src="https://github.com/buck06191.png" width="100" height="100">           | United Kingdom        |                                |                                                                                               |
 | [Shawn Chang](https://github.com/seancyw) <br> <img src="https://github.com/seancyw.png" width="100" height="100">                 | Singapore             | C++, Python                    |                                                                                               |
 | [S. Liang](https://github.com/sml2008) <br> <img src="https://github.com/sml2008.png" width="100" height="100">                    | United States         |                                |                                                                                               |
+| [M4rx](https://github.com/m4rx) <br> <img src="https://github.com/m4rx.png" width="100" height="100">          					 | Lithuania             | Clojure                              |                                                                                               |
 | [H Shay](https://github.com/H-Shay) <br> <img src="https://github.com/H-Shay.png" width="100" height="100">                        | United States         | Java                           |                                                                                               |
 | [Ouassim Ben Mosbah](https://github.com/ouassimBenMosbah) <br> <img src="https://github.com/ouassimBenMosbah.png" width="100" height="100">   | Tunisia    | Javascript                     |                                                                                               |
 | [Sachin Bajpai](https://github.com/sachinbajpai100) <br> <img src="https://github.com/sach.png" width="100" height="100">          | India                 | C                              |                                                                                               |
@@ -67,7 +68,9 @@ In this repository, you can find the solutions (as source code) for the problems
 | [BenHargreaves](https://github.com/BenHargreaves/) <br> <img src="https://github.com/BenHargreaves.png" width="100" height="100">              | Canada            	   | Python                   |                                                                                               |
 | [arvydasdev](https://github.com/arvydasdev/) <br> <img src="https://avatars.githubusercontent.com/arvydasdev" width="100" height="100">        | Lithuania             | Java                   |                                                                                               |
 | [Dhiego Bersan](https://github.com/dhiegomaga/) <br> <img src="https://avatars0.githubusercontent.com/u/25873377?s=460&v=4" width="100" height="100">              | Brazil            	   |                    |                                                                                               |
+| [Nishita Dutta](https://github.com/nish-d) <br> <img src="https://avatars1.githubusercontent.com/u/15178729?s=460&v=4" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/nish_d                                                                                             |
 
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
+
