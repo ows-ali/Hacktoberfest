@@ -27,7 +27,6 @@ In this repository, you can find the solutions (as source code) for the problems
 
 ## Contributors
 
-
 | Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
 | [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |                                                                                               |
@@ -46,6 +45,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Mohammad Sameer](https://github.com/m-sameer) <br> <img src="https://github.com/m-sameer.png" width="100" height="100">           | India         	       | Java, C++                      |                                                                                               |
 | [Anubhav Gupta](https://github.com/theanubhava) <br> <img src="https://github.com/theanubhava.png" width="100" height="100">       | India                 | Java,                          |                                                                                               |
 | [Inzemam Ul-Haq](https://github.com/Virusthegreat) <br> <img src="https://github.com/Virusthegreat.png" width="100" height="100">  | India          	     | C++                            |                                                                                               |
+| [Norrapat Nimmanee](https://github.com/icharge) <br> <img src="https://github.com/icharge.png" width="100" height="100">           | Thailand              | Java, Javascript, C#           |                                                                                               |
 | [Bertram Truong](https://github.com/bt) <br> <img src="https://github.com/bt.png" width="100" height="100">                        | Australia             |                                |                                                                                               |
 | [codingCookie](https://github.com/codingCookie) <br> <img src="https://github.com/codingCookie.png" width="100" height="100">      | Germany               |                                |                                                                                               |
 | [Keshav Bansal](https://github.com/keshavx11) <br> <img src="https://github.com/keshavx11.png" width="100" height="100">           | India                 |                                |                                                                                               |
@@ -72,7 +72,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Dhiego Bersan](https://github.com/dhiegomaga/) <br> <img src="https://avatars0.githubusercontent.com/u/25873377?s=460&v=4" width="100" height="100">              | Brazil            	   |                    |                                                                           |
 | [Nishita Dutta](https://github.com/nish-d) <br> <img src="https://avatars1.githubusercontent.com/u/15178729?s=460&v=4" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/nish_d                                            |
 | [Oskari Kotajärvi](https://github.com/oskarikotajarvi) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">              | Finland           	   | Java             |                                                                                           |
-| [Hari](https://github.com/harimadhavan2000) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">      | India                  | C#                             |                                                                                               |
+| [Hari](https://github.com/harimadhavan2000) <br> <img src="https://github.com/harimadhavan2000.png" width="100" height="100">      | India                  | C#                             |                                                                                               |
 
 ### License
 
