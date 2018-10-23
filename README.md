@@ -69,7 +69,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [arvydasdev](https://github.com/arvydasdev/) <br> <img src="https://avatars.githubusercontent.com/arvydasdev" width="100" height="100">        | Lithuania             | Java                   |                                                                                               |
 | [Dhiego Bersan](https://github.com/dhiegomaga/) <br> <img src="https://avatars0.githubusercontent.com/u/25873377?s=460&v=4" width="100" height="100">              | Brazil            	   |                    |                                                                                               |
 | [Nishita Dutta](https://github.com/nish-d) <br> <img src="https://avatars1.githubusercontent.com/u/15178729?s=460&v=4" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/nish_d                                                                                             |
-
+| [Oskari Kotajärvi](https://github.com/oskarikotajarvi) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">              | Finland           	   | Java             |                                                                                             |
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
