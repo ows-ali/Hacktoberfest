@@ -44,8 +44,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Mohammad Sameer](https://github.com/m-sameer) <br> <img src="https://github.com/m-sameer.png" width="100" height="100">           | India         	     | Java, C++                      |
 | [Anubhav Gupta](https://github.com/theanubhava) <br> <img src="https://github.com/theanubhava.png" width="100" height="100">       | India                 | Java,                          |
 | [Inzemam Ul-Haq](https://github.com/Virusthegreat) <br> <img src="https://github.com/Virusthegreat.png" width="100" height="100">  | India          	     | C++                            |
-| [Bertram Truong](https://github.com/bt) <br> <img src="https://github.com/bt.png" width="100" height="100">                        | Australia             |                                |
-| [Abhishek Saxena](https://github.com/5AbhishekSaxena) <br> <img src="https://avatars1.githubusercontent.com/u/19958130?s=460&v=4" width="100" height="100">                        | India             |  Java, cpp                              |
+| [Bertram Truong](https://github.com/bt) <br> <img src="https://github.com/bt.png" width="100" height="100">                        | Australia             |                                |130?s=460&v=4" width="100" height="100">                        | India             |  Java, cpp                              |
 
 
 ### License
