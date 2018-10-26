@@ -78,7 +78,6 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Nishita Dutta](https://github.com/nish-d) <br> <img src="https://avatars1.githubusercontent.com/u/15178729?s=460&v=4" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/nish_d                                            |
 | [Oskari Kotajärvi](https://github.com/oskarikotajarvi) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">              | Finland           	   | Java             |                                                                                           |
 | [Hari](https://github.com/harimadhavan2000) <br> <img src="https://github.com/harimadhavan2000.png" width="100" height="100">      | India                  | C#                             |                                                                                               |
-
 | [Cecil John Tantay](https://github.com/cjbt) <br> <img src="https://github.com/cjbt.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
 
 
