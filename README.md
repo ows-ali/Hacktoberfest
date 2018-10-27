@@ -1,4 +1,4 @@
-# Hacktoberfest
+﻿# Hacktoberfest
 
 [![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/issues)
@@ -83,7 +83,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Cecil John Tantay](https://github.com/cjbt) <br> <img src="https://github.com/cjbt.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
 | [Ema Fazillah](https://github.com/emafazillah) <br> <img src="https://github.com/emafazillah.png" width="100" height="100">      | Malaysia                  | Java                             |                                                                                               |
 | [Passawat Noraman](https://github.com/tmteamz) <br> <img src="https://github.com/tmteamz.png" width="100" height="100">      | Thailand                  | Javascript                             |                                                                                               |
-
+| [Quinn Wright](https://github.com/gasilly) <br> <img src="https://github.com/gasilly.png" width="100" height="100">		     | United States	   | Java
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
