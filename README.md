@@ -84,6 +84,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Ema Fazillah](https://github.com/emafazillah) <br> <img src="https://github.com/emafazillah.png" width="100" height="100">      | Malaysia                  | Java                             |                                                                                               |
 | [Passawat Noraman](https://github.com/tmteamz) <br> <img src="https://github.com/tmteamz.png" width="100" height="100">      | Thailand                  | Javascript                             |                                                                                               |
 | [Quinn Wright](https://github.com/gasilly) <br> <img src="https://github.com/gasilly.png" width="100" height="100">		     | United States	   | Java
+| [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
+
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
