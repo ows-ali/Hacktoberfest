@@ -1,1 +1,18 @@
-{"index.js":"function multiplesOf3and5(number) {\n  let sum = 0, i = 3;\n  while (i < number){\n    if (i % 3 == 0 || i % 5 == 0) sum += i;\n    i++;\n  }\n  return sum;\n}\n\nmultiplesOf3and5(1000);"}
+include <iostream>
+using namespace std;
+
+int main()
+{
+  int multiples = 0;
+  for (int i = 0; i < 1000; i++)
+  {
+    if ((i % 3 == 0) || (i % 5 == 0))
+    {
+      multiples++;
+    }
+  }
+  cout << "The amount of numbers between 0 and 1000 that have multiples of both 3 and 5 is " << multiples << endl;
+
+  system("pause");
+  return 0;
+}
