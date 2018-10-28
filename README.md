@@ -83,6 +83,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Cecil John Tantay](https://github.com/cjbt) <br> <img src="https://github.com/cjbt.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
 | [Ema Fazillah](https://github.com/emafazillah) <br> <img src="https://github.com/emafazillah.png" width="100" height="100">      | Malaysia                  | Java                             |                                                                                               |
 | [Passawat Noraman](https://github.com/tmteamz) <br> <img src="https://github.com/tmteamz.png" width="100" height="100">      | Thailand                  | Javascript                             |                                                                                               |
+| [Victor Hung](https://github.com/vhung92) <br> <img src="https://github.com/vhung92.png" width="100" height="100">      | Sweden                  | Java, Scala, Go                             |     https://www.hackerrank.com/vhung                                                        |
 
 ### License
 
