@@ -27,9 +27,6 @@ In this repository, you can find the solutions (as source code) for the problems
 
 ## Contributors
 
-
-
-
 | Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
 | [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |                                                                                               |
@@ -78,6 +75,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Nishita Dutta](https://github.com/nish-d) <br> <img src="https://avatars1.githubusercontent.com/u/15178729?s=460&v=4" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/nish_d                                            |
 | [Oskari Kotajärvi](https://github.com/oskarikotajarvi) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">              | Finland           	   | Java             |                                                                                           |
 | [Hari](https://github.com/harimadhavan2000) <br> <img src="https://github.com/harimadhavan2000.png" width="100" height="100">      | India                  | C#                             |                                                                                               |
+| [Batislav R](https://github.com/bracar/) <br> <img src="https://github.com/bracar.png" width="100" height="100">                   | Serbia                 | C, Python, JavaScript   |                                                                                               |
 | [Fred C](https://github.com/frexcur/) <br> <img src="https://github.com/frexcur.png" width="100" height="100">                     | United States          | JAVA                           |                                                                                               |
 | [Will Estes](https://github.com/Will-Estes) <br> <img src="https://avatars2.githubusercontent.com/u/16292483?s=460&v=4" width="100" height="100">       |United States       | Java       |                                                                                               |
 | [Cecil John Tantay](https://github.com/cjbt) <br> <img src="https://github.com/cjbt.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
@@ -88,6 +86,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Lan](https://github.com/90lantran) <br> <img src="https://avatars.githubusercontent.com/90lantran" width="100" height="100">       |United States       | Java       |
 | [Quinn Wright](https://github.com/gasilly) <br> <img src="https://github.com/gasilly.png" width="100" height="100">		     | United States	   | Java
 | [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
+
 
 ### License
 
