@@ -1,4 +1,4 @@
-# Hacktoberfest
+﻿# Hacktoberfest
 
 [![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/issues)
@@ -84,6 +84,10 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Ema Fazillah](https://github.com/emafazillah) <br> <img src="https://github.com/emafazillah.png" width="100" height="100">      | Malaysia                  | Java                             |                                                                                               |
 | [Passawat Noraman](https://github.com/tmteamz) <br> <img src="https://github.com/tmteamz.png" width="100" height="100">      | Thailand                  | Javascript                             |                                                                                               |
 | [Thiago Henrique](https://github.com/thiago-h) <br> <img src="https://github.com/thiago-h.png" width="100" height="100">      | Brasil                  | C++                             | https://www.urionlinejudge.com.br/judge/en/profile/10801                                                                                              |
+| [Victor Hung](https://github.com/vhung92) <br> <img src="https://github.com/vhung92.png" width="100" height="100">      | Sweden                  | Java, Scala, Go                             |     https://www.hackerrank.com/vhung                                                        |
+| [Lan](https://github.com/90lantran) <br> <img src="https://avatars.githubusercontent.com/90lantran" width="100" height="100">       |United States       | Java       |
+| [Quinn Wright](https://github.com/gasilly) <br> <img src="https://github.com/gasilly.png" width="100" height="100">		     | United States	   | Java
+| [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
 
 ### License
 
