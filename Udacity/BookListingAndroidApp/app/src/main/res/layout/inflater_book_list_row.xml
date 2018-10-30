@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/dp_20"
+    app:ignore="NamespaceTypo"
+    card_view:cardCornerRadius="@dimen/dp_2"
+    card_view:cardElevation="@dimen/dp_2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/cardview_bg"
+        android:gravity="center_vertical"
+        android:padding="@dimen/dp_14">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/book_image"
+            android:layout_width="@dimen/dp_72"
+            android:layout_height="@dimen/dp_72"
+            android:src="@mipmap/ic_launcher"
+            app:civ_border_color="@color/colorBackroundWhite"
+            app:civ_border_width="@dimen/dp_2" />
+
+        <com.example.deepanshu.booklistingapp.custom.TextView_Lato
+            android:id="@+id/book_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_20"
+            android:layout_toRightOf="@+id/book_image"
+            android:textColor="@color/colorGray"
+            android:textSize="@dimen/sp_15"
+            android:textStyle="bold" />
+
+        <com.example.deepanshu.booklistingapp.custom.Textview_lato_thin
+            android:id="@+id/book_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/book_name"
+            android:layout_marginLeft="@dimen/dp_20"
+            android:layout_marginTop="@dimen/dp_8"
+            android:layout_toRightOf="@+id/book_image"
+            android:textColor="@color/colorLightGray"
+            android:textSize="@dimen/sp_14" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
