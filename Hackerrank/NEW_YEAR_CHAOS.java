@@ -40,7 +40,7 @@ public class NEW_YEAR_CHAOS {
      //if required more than 2 vibes
         for(int place: bribeKeeper){
             if(place>2){
-              System.out.println("Too Chaotic");
+              System.out.println("Too chaotic");
         return;  
             }
         }
