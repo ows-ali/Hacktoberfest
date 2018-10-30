@@ -50,7 +50,7 @@ int main()
 	            mn[abs(get<2>(v[j]) - get<2>(v[i]))+1]--;
 	            continue;
 	        }
-	        lld d=(((lld)get<0>(v[i])-get<0>(v[j])) * ((lld)get<0>(v[i])-get<0>(v[j]))) + (((lld)get<1>(v[i])-get<1>(v[j])) * ((lld)get<1>(v[i])-get<1>(v[j])));
+	        lld d=(((lld)get<0>(v[ i])-get<0>(v[j])) * ((lld)get<0>(v[i])-get<0>(v[j]))) + (((lld)get<1>(v[i])-get<1>(v[j])) * ((lld)get<1>(v[i])-get<1>(v[j])));
 	        d=sqrtl(d);
 	        bool is;
 	        if(get<2>(v[i]) > get<2>(v[j]))
