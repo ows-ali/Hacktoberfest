@@ -19,13 +19,15 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity implements MaterialSearchBar.OnSearchActionListener {
 
     private static final String BOOK_LIST = "list_of_books";
+    // TODO: Replace with your api key
+    private static final String API_KEY = "";
 
     private RecyclerView mRecyclerView;
     private TextView_Lato mTextViewMsg;
     private BookListAdapter mBookListAdapter;
     private ArrayList<BookList> mBookArrayList = new ArrayList<>();
 
-    public static final String GOOGLE_BOOKS_API_BASE_QUERY = "https://www.googleapis.com/books/v1/volumes?maxResults=20&key=AIzaSyC5gSOScPvSCrPssIez0VRSPXHfDsH7bUY&q=";
+    public static final String GOOGLE_BOOKS_API_BASE_QUERY = "https://www.googleapis.com/books/v1/volumes?maxResults=20&key=" + BOOK_LIST;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
