@@ -86,9 +86,10 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Victor Hung](https://github.com/vhung92) <br> <img src="https://github.com/vhung92.png" width="100" height="100">      | Sweden                  | Java, Scala, Go                             |     https://www.hackerrank.com/vhung                                                        |
 | [Lan](https://github.com/90lantran) <br> <img src="https://avatars.githubusercontent.com/90lantran" width="100" height="100">       |United States       | Java       |
 | [Quinn Wright](https://github.com/gasilly) <br> <img src="https://github.com/gasilly.png" width="100" height="100">		     | United States	   | Java
-| [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |    
+| [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |
 [Anh T Nguyen](https://github.com/shin2903) <br> <img src="https://github.com/shin2903.png" width="100" height="100">      | Vietnam                  | Java                             |
 | [Tiffany R](https://github.com/tramgolam) <br> <img src="https://github.com/tramgolam.png" width="100" height="100">      | United States                  | Python, Javascript                             |     https://www.twitter.com/tifftough                                                        |
+| [Deepanshu Sinha](https://github.com/sinhaDroid) <br> <img src="https://github.com/sinhaDroid.png" width="100" height="100">      | India                  | Python, Android, Java, Javascript                            |     https://www.linkedin.com/in/deepanshu-sinha/                                                        |
 | [Jared Moser](https://github.com/JM0S3R) <br> <img src="https://github.com/JM0S3R.png" width="100" height="100">      | United States                  | C++, Javascript                            |                                                             |
 
 
