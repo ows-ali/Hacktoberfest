@@ -1,7 +1,7 @@
 # How to Contribute
 
 
-- Fork this repository - [How to fork a repository](https://help.github.com/articles/fork-a-repo/)
+- Fork this repository - [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - Clone the forked repository into local space
 - Choose any task on [Hackerrank](https://www.hackerrank.com/), [Codechef](https://www.codechef.com/) or any other online platform and solve it, (or choose your already solved question)
 - Paste the solution code in new file and name it in following format:
