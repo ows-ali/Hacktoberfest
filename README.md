@@ -27,9 +27,6 @@ In this repository, you can find the solutions (as source code) for the problems
 
 ## Contributors
 
-
-
-
 | Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
 | [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |                                                                                               |
@@ -74,20 +71,33 @@ In this repository, you can find the solutions (as source code) for the problems
 | [nikofil](https://github.com/nikofil/) <br> <img src="https://avatars3.githubusercontent.com/u/5767669" width="100" height="100">              | Switzerland            	   | Python                   |                                                                                   |
 | [BenHargreaves](https://github.com/BenHargreaves/) <br> <img src="https://github.com/BenHargreaves.png" width="100" height="100">              | Canada            	   | Python                   |                                                                                         |
 | [arvydasdev](https://github.com/arvydasdev/) <br> <img src="https://avatars.githubusercontent.com/arvydasdev" width="100" height="100">        | Lithuania             | Java                   |                                                                                           |
+| [Ken Vader](https://github.com/kenvader) <br> <img src="https://github.com/kenvader.png" width="100" height="100">                             | United States         | Java                   |                                                                                           |      
 | [Dhiego Bersan](https://github.com/dhiegomaga/) <br> <img src="https://avatars0.githubusercontent.com/u/25873377?s=460&v=4" width="100" height="100">              | Brazil            	   |                    |                                                                           |
 | [Nishita Dutta](https://github.com/nish-d) <br> <img src="https://avatars1.githubusercontent.com/u/15178729?s=460&v=4" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/nish_d                                            |
 | [Oskari Kotajärvi](https://github.com/oskarikotajarvi) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">              | Finland           	   | Java             |                                                                                           |
 | [Hari](https://github.com/harimadhavan2000) <br> <img src="https://github.com/harimadhavan2000.png" width="100" height="100">      | India                  | C#                             |                                                                                               |
+| [RISHABH KEMNI](https://github.com/rishabhkemni/) <br>              | india              | python,c++                          | 
+| [Yang](https://github.com/Yang8547/) <br> <img src="https://avatars3.githubusercontent.com/u/23243521?s=460&v=4" width="100" height="100">        | China             | Java
+| [Batislav R](https://github.com/bracar/) <br> <img src="https://github.com/bracar.png" width="100" height="100">                   | Serbia                 | C, Python, JavaScript   |                                                                                               |
 | [Fred C](https://github.com/frexcur/) <br> <img src="https://github.com/frexcur.png" width="100" height="100">                     | United States          | JAVA                           |                                                                                               |
 | [Will Estes](https://github.com/Will-Estes) <br> <img src="https://avatars2.githubusercontent.com/u/16292483?s=460&v=4" width="100" height="100">       |United States       | Java       |                                                                                               |
 | [Cecil John Tantay](https://github.com/cjbt) <br> <img src="https://github.com/cjbt.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
 | [Ema Fazillah](https://github.com/emafazillah) <br> <img src="https://github.com/emafazillah.png" width="100" height="100">      | Malaysia                  | Java                             |                                                                                               |
 | [Passawat Noraman](https://github.com/tmteamz) <br> <img src="https://github.com/tmteamz.png" width="100" height="100">      | Thailand                  | Javascript                             |                                                                                               |
+| [Thiago Henrique](https://github.com/thiago-h) <br> <img src="https://github.com/thiago-h.png" width="100" height="100">      | Brasil                  | C++                             | https://www.urionlinejudge.com.br/judge/en/profile/10801                                                                                              |
+| [Victor Hung](https://github.com/vhung92) <br> <img src="https://github.com/vhung92.png" width="100" height="100">      | Sweden                  | Java, Scala, Go                             |     https://www.hackerrank.com/vhung                                                        |
 | [Lan](https://github.com/90lantran) <br> <img src="https://avatars.githubusercontent.com/90lantran" width="100" height="100">       |United States       | Java       |
 | [Quinn Wright](https://github.com/gasilly) <br> <img src="https://github.com/gasilly.png" width="100" height="100">		     | United States	   | Java
 | [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
-|[Rivka Klein] United States Java
+| [Rivka Klein](https://github.com/RivkieKlein) <br> <img src="https://github.com/RivkieKlein.png" width="100" height="100">      | United States                  | Java                             |
+| [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |
+[Anh T Nguyen](https://github.com/shin2903) <br> <img src="https://github.com/shin2903.png" width="100" height="100">      | Vietnam                  | Java                             |
+| [Tiffany R](https://github.com/tramgolam) <br> <img src="https://github.com/tramgolam.png" width="100" height="100">      | United States                  | Python, Javascript                             |     https://www.twitter.com/tifftough                                                        |
+| [Deepanshu Sinha](https://github.com/sinhaDroid) <br> <img src="https://github.com/sinhaDroid.png" width="100" height="100">      | India                  | Python, Android, Java, Javascript                            |     https://www.linkedin.com/in/deepanshu-sinha/                                                        |
+| [Jared Moser](https://github.com/JM0S3R) <br> <img src="https://github.com/JM0S3R.png" width="100" height="100">      | United States                  | C++, Javascript                            |                                                             |
+| [Matei Oltean](https://github.com/Matei13) <br> <img src="https://github.com/Matei13.png" width="100" height="100">   | France    |   OCaml   |   |
+
+
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
-
