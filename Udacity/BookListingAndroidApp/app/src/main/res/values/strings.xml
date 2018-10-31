@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="go">Go</string>
+    <string name="book_hint_name">Write Book Name</string>
+    <string name="message">Give Books Name In The Search Bar ex: Pearson, Sun Publisher etc.,</string>
+    <string name="no_data">Nothing Entered</string>
+    <string name="no_connection">No Internet Connection</string>
+</resources>
