@@ -1,4 +1,4 @@
-// Derement/Increment: https://www.codechef.com/problems/DECINC
+// https://www.codechef.com/problems/DECINC
 
 n=int(input())
 if n%4==0:
