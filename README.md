@@ -96,6 +96,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Deepanshu Sinha](https://github.com/sinhaDroid) <br> <img src="https://github.com/sinhaDroid.png" width="100" height="100">      | India                  | Python, Android, Java, Javascript                            |     https://www.linkedin.com/in/deepanshu-sinha/                                                        |
 | [Jared Moser](https://github.com/JM0S3R) <br> <img src="https://github.com/JM0S3R.png" width="100" height="100">      | United States                  | C++, Javascript                            |                                                             |
 | [Matei Oltean](https://github.com/Matei13) <br> <img src="https://github.com/Matei13.png" width="100" height="100">   | France    |   OCaml   |   |
+| [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
+
 
 
 ### License
