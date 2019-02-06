@@ -1,4 +1,4 @@
-https://www.codechef.com/DEC18B/problems/CHFIDEAL/
+//https://www.codechef.com/DEC18B/problems/CHFIDEAL/
 //Standard_JAVA_Template
 /*@author SUMITESH NAITHANI somu_9 */
 import java.io.*;
