@@ -18,17 +18,17 @@ For each test case, output one line containing Case #x: y, where x is the test c
 Time limit: 20 seconds per test set.
 Memory limit: 1GB.
 
-Small dataset (Test set 1 - Visible)
+## Small dataset (Test set 1 - Visible)
 1 ≤ N ≤ 105.
 
-Large dataset (Test set 2 - Hidden)
+## Large dataset (Test set 2 - Hidden)
 1 ≤ N ≤ 1016.
 
-#Sample
+# Sample
 
-Input 
+## Input 
  	
-Output 
+## Output 
  
 4
 42
@@ -37,17 +37,21 @@ Output
 2018
 
   
-Case #1: 0
-Case #2: 3
-Case #3: 1
-Case #4: 2
+- Case #1: 0
+- Case #2: 3
+- Case #3: 1
+- Case #4: 2
 
   
-In Sample Case #1, the integer initially displayed on the calculator has no odd digits, so no button presses are needed.
+## In Sample Case #1,
+the integer initially displayed on the calculator has no odd digits, so no button presses are needed.
 
-In Sample Case #2, pressing the minus button three times will cause the calculator to display 8. There is no way to satisfy the requirements with fewer than three button presses.
+## In Sample Case #2,
+pressing the minus button three times will cause the calculator to display 8. There is no way to satisfy the requirements with fewer than three button presses.
 
-In Sample Case #3, either pressing the minus button once (causing the calculator to display 0) or pressing the plus button once will cause the calculator to display an integer without an odd digit.
+## In Sample Case #3,
+either pressing the minus button once (causing the calculator to display 0) or pressing the plus button once will cause the calculator to display an integer without an odd digit.
 
-In Sample Case #4, pressing the plus button twice will cause the calculator to display 2020. There is no way to satisfy the requirements with fewer than two button presses.
+## In Sample Case #4,
+pressing the plus button twice will cause the calculator to display 2020. There is no way to satisfy the requirements with fewer than two button presses.
 
