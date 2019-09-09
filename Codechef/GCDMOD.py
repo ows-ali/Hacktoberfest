@@ -1,9 +1,3 @@
-/*
- *	Shashwat Garg
- *	B16034
- *	IIT Mandi
- */
-
 def gcd(a,b):
     if(b==0):
         return a
