@@ -1,35 +1,21 @@
-#include <iostream>
-#include <bits/stdc++.h>
+#include<iostream>
 
 using namespace std;
 
-void staircase(int n) {
-    for (int i = 0; i < n; i++)
-    {
-        int j = n;
-        while (j > i + 1)
-        {
-            cout << ' ';
-            j--;
+int main () {
+    int height;
+    cin >> height;
+
+    for (int i = 1; i <= height; i++) {
+        for (int j = 0; j < i; j++) {
+            if(j==0) {		
+                //Printing spaces 
+                for(int t = 0; t < height - i; t++) cout << " ";
+            }
+            //Print hashes
+            cout << "#";
         }
-        int k = 0;
-        while (k <= i)
-        {
-            cout << '#';
-            k++;
-        }
-        cout << '\n';
+        cout << endl;
     }
-
-}
-
-int main()
-{
-    int n;
-    cin >> n;
-    cin.ignore(numeric_limits<streamsize>::max(), '\n');
-
-    staircase(n);
-
     return 0;
 }
