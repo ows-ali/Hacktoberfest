@@ -15,18 +15,18 @@ public class ADACRA {
 				} else 
 					if(i == input.length() - 2) input_new += String.valueOf(input.charAt(i + 1));
 			}
-			int countU = 0;
-			int countD = 0;
+			int uCount = 0;
+			int dCount = 0;
 			for(int i = 0; i < input_new.length(); i++) {
 				if(input_new.charAt(i) == 'D') 
-					countD++;
+					dCount++;
 				else 
-					countU++;
+					uCount++;
 			}			
-			if(countU > countD) 
-				System.out.println(countD);
+			if(uCount > dCount) 
+				System.out.println(dCount);
 			else 
-				System.out.println(countU);
+				System.out.println(uCount);
 		}
 		scan.close();
 	}
