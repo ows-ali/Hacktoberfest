@@ -29,6 +29,7 @@ In this repository, you can find the solutions (as source code) for the problems
 
 | Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
+                                                                                            |
 | [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |                                                                                               |
 | [Yuibun](https://github.com/yuibun/) <br> <img src="https://github.com/yuibun.png" width="100" height="100">                       | United States         | C++                            |                                                                                               |
 | [Roopam Sharma](https://github.com/RoopamSharma/) <br> <img src="https://github.com/RoopamSharma.png" width="100" height="100">    | United States         | Python3                        |                                                                                               |
@@ -98,9 +99,9 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Matei Oltean](https://github.com/Matei13) <br> <img src="https://github.com/Matei13.png" width="100" height="100">   | France    |   OCaml   |   |
 | [Chaitanya Mattey](https://github.com/cmattey/) <br> <img src="https://github.com/cmattey.png" width="100" height="100">               | United States              | Python                           |                                                                                               |
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
-| [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
+| [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |                                                                               
+| [Anita Olsen](https://github.com/AnitaOlsen/) <br> <img src="https://github.com/AnitaOlsen.png" width="100" height="100">               | Norway | Python | https://www.datacamp.com/profile/AnitaOlsen |
 
-
-### License
+### License 
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
