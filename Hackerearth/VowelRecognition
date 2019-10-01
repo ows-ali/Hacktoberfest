@@ -1,0 +1,35 @@
+process.stdin.resume();
+process.stdin.setEncoding("utf-8");
+var stdin_input = "";
+ 
+process.stdin.on("data", function (input) {
+    stdin_input += input;                               // Reading input from STDIN
+});
+ 
+process.stdin.on("end", function () {
+   main(stdin_input);
+});
+ 
+function main(input) {
+    const ils = input.split('\n');
+    const N = ils[0];
+    
+    for (let i = 1; i <= N; i++) {
+        console.log(vowelRecognition(ils[i]));
+    }
+}
+ 
+function vowelRecognition(str) {
+    let total = 0;
+    
+    for (let i = 0; i < str.length; i++)
+        if (isVowel(str.charAt(i))) total += (str.length - i) * (i + 1);
+        
+    return total;
+}
+ 
+const vowels = {a:true,e:true,i:true,o:true,u:true,A:true,E:true,I:true,O:true,U:true}
+ 
+function isVowel(char) {
+    return vowels[char] === true;
+}
