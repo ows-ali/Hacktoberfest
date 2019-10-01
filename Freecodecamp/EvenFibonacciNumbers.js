@@ -1,13 +1,15 @@
-function fiboEvenSum(n) {
+function fibonacciEvenSum(n) {
     var first = 1, second = 2, sum = 2;
 
-    for (var i=2; i <= n; i++) {
-        var nextFibo = first + second;
-        if (nextFibo % 2 == 0) {
-            sum = sum + nextFibo;
-        }
+    for (var i=2; i <= n; i++)
+    {
+        var nextFibonum = first + second;
+        if (nextFibonum % 2 == 0)
+        {
+            sum = sum + nextFibonum;
+         }
         first = second;
-        second = nextFibo;
+        second = nextFibonum;
     }
 
     return sum;
