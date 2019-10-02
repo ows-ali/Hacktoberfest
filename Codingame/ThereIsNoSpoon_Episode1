@@ -23,7 +23,7 @@ for (var y = 0; y < height; y++) {
             while(dx < width && grid[y][dx]!='0'){
                 dx++;
             }
-            if(dx === width){
+            if(dx == width){
                 dx=-1;
                 dy=-1;
             }
@@ -34,7 +34,7 @@ for (var y = 0; y < height; y++) {
             while(by < height && grid[by][x]!='0'){
                 by++;
             }
-            if(by === height){
+            if(by == height){
                 bx=-1;
                 by=-1;
             }
