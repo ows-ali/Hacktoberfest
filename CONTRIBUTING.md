@@ -23,7 +23,7 @@
 $ git remote add upstream https://github.com/[Original Owner Username]/[Original Repository].git
 ```
 
-*For instance, to add this repository you would run*
+   *For instance, to add this repository you would run*
 ```javascript
 $ git remote add upstream https://github.com/ows-ali/Hacktoberfest.git/
 ```
@@ -38,7 +38,7 @@ $ git fetch upstream
 $ git checkout [working branch]
 ```
 
-*For example:*
+   *For example:*
 ```javascript
 $ git checkout master
 ```
