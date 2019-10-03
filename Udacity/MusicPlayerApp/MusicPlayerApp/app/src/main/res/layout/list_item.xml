@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/library"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_90"
+    android:paddingTop="@dimen/dp_20"
+    android:layout_below="@+id/title"
+    android:layout_marginLeft="@dimen/dp_40"
+    android:layout_marginRight="@dimen/dp_40"
+    android:layout_marginTop="@dimen/dp_100"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/textview_bg"
+        android:alpha="0.4"/>
+
+    <ImageView
+        android:layout_width="@dimen/dp_40"
+        android:layout_height="@dimen/dp_40"
+        android:layout_marginTop="@dimen/dp_16"
+        android:src="@drawable/ic_music_note_24dp"
+        android:layout_marginLeft="@dimen/dp_32"
+        android:alpha="0.5"/>
+
+    <TextView
+        android:id="@+id/genre_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:fontFamily="@font/mont_light"
+        android:gravity="center"
+        android:text="@string/genres"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/sp_24" />
+</RelativeLayout>
