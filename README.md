@@ -98,6 +98,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Matei Oltean](https://github.com/Matei13) <br> <img src="https://github.com/Matei13.png" width="100" height="100">   | France    |   OCaml   |   |
 | [Chaitanya Mattey](https://github.com/cmattey/) <br> <img src="https://github.com/cmattey.png" width="100" height="100">               | United States              | Python                           |                                                                                               |
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
+| [Argha Sarkar](https://github.com/arghasarkar) <br> <img src="https://github.com/arghasarkar.png" width="100" height="100"> | United Kingdom | Java, Python, C, JavaScript | |
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
 
 
