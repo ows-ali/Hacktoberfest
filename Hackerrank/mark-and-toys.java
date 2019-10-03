@@ -23,9 +23,7 @@ public class Solution {
                 return i+1;
             }
         }
-
         return 0;
-
     }
 
     private static final Scanner scanner = new Scanner(System.in);
@@ -59,4 +57,3 @@ public class Solution {
         scanner.close();
     }
 }
-

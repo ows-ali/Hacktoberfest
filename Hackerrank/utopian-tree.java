@@ -6,8 +6,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    public static void main(String[] args)throws IOException
-    {
+    public static void main(String[] args)throws IOException {
         int n,t,j,i,h=1;
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         //System.out.println("Enter number of test cases");
@@ -32,5 +31,3 @@ public class Solution {
         }
     }
 }
-
-      

@@ -64,7 +64,7 @@ public class BookList implements Parcelable {
     }
 
     @Override
-    public void writeToParcel(Parcel dest, int flags) {
+    public void writeToParcel(Parcelable dest, int flags) {
         dest.writeString(title);
         dest.writeString(thumbnail);
     }
