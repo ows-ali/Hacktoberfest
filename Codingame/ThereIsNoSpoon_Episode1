@@ -1,6 +1,3 @@
-/**
- * Don't let the machines win. You are humanity's last hope...
- **/
 
 var width = parseInt(readline()); // the number of cells on the X axis
 var height = parseInt(readline()); // the number of cells on the Y axis
