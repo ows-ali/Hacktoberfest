@@ -36,6 +36,7 @@ int main() {
             cin>>a[i];
             if(max<a[i])max=a[i];
         }
+        //taking input
         cin>>c>>d>>s;
         cout <<fixed;
         cout << setprecision(9);

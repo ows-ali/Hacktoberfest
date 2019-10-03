@@ -12,5 +12,7 @@ using namespace std;
   }
   cout << "The amount of numbers between 0 and 1000 that have multiples of both 3 and 5 is " << multiples << endl;
    system("pause");
+  
+  cout << "Hacktoberfest";
   return 0;
 }

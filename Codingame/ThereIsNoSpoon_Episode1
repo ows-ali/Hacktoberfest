@@ -40,6 +40,7 @@ for (var y = 0; y < height; y++) {
             }
             
             print(x+" "+y+" "+dx+" "+dy+" "+bx+" "+by);
+            print("Hacktoberfest");
         }   
     }
 }

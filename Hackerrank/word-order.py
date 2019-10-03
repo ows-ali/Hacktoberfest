@@ -20,3 +20,4 @@ line = line.rstrip(' ')
 
 print(len(dic))
 print(line)
+print("Hacktoberfest")

@@ -43,5 +43,6 @@ public class Solution {
         bufferedWriter.close();
 
         scanner.close();
+    
     }
 }

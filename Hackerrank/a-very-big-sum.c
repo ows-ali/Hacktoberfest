@@ -7,4 +7,5 @@ long aVeryBigSum(int ar_count, long* ar) {
     }
 
     return sum;
+
 }
