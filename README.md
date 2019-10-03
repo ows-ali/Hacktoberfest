@@ -25,6 +25,8 @@ In this repository, you can find the solutions (as source code) for the problems
 
 [Learn the Git basics](https://try.github.io)
 
+[Git for Absolute Beginners] (https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/)
+
 ## Contributors
 
 | Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
@@ -99,7 +101,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Chaitanya Mattey](https://github.com/cmattey/) <br> <img src="https://github.com/cmattey.png" width="100" height="100">               | United States              | Python                           |                                                                                               |
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
-
+| [Allie D](https://github.com/sparklycat) <br> <img src="https://avatars2.githubusercontent.com/u/32532136?s=460&v=4" width="100" height="100">   | United States   | SQL |   |
 
 ### License
 
