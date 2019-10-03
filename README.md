@@ -25,7 +25,7 @@ In this repository, you can find the solutions (as source code) for the problems
 
 [Learn the Git basics](https://try.github.io)
 
-[Git for Absolute Beginners] (https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/)
+[Git for Absolute Beginners](https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/)
 
 ## Contributors
 
