@@ -1,0 +1,37 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    int n,x=0,f=0;
+    cin>>n;
+    int arr[n],arr1[n];
+    for(int i=0;i<n;i++)
+    cin>>arr[i];
+    for(int i=0;i<n;i++)
+    arr1[i]=0;
+    for(int i=0;i<n;i++)
+    {
+        f=0;
+        if(i>0)
+        {
+            for(int k=0;k<i;k++)
+            {
+                if(arr[k]==arr[i])
+                f=1;
+            }
+        }
+        if(f==0)
+        {
+            for(int j=i;j<n;j++)
+            {
+                if(arr[i]==arr[j])
+                arr1[i]++;
+            }
+        }
+    }
+        for(int i=0;i<n;i++)
+        {
+            arr1[i]=arr1[i]/2;
+            x+=arr1[i];
+        }
+        cout<<x;
+}
