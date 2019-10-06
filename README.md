@@ -1,4 +1,4 @@
-﻿# Hacktoberfest
+# Hacktoberfest
 
 [![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/issues)
@@ -72,12 +72,12 @@ In this repository, you can find the solutions (as source code) for the problems
 | [nikofil](https://github.com/nikofil/) <br> <img src="https://avatars3.githubusercontent.com/u/5767669" width="100" height="100">              | Switzerland            	   | Python                   |                                                                                   |
 | [BenHargreaves](https://github.com/BenHargreaves/) <br> <img src="https://github.com/BenHargreaves.png" width="100" height="100">              | Canada            	   | Python                   |                                                                                         |
 | [arvydasdev](https://github.com/arvydasdev/) <br> <img src="https://avatars.githubusercontent.com/arvydasdev" width="100" height="100">        | Lithuania             | Java                   |                                                                                           |
-| [Ken Vader](https://github.com/kenvader) <br> <img src="https://github.com/kenvader.png" width="100" height="100">                             | United States         | Java                   |                                                                                           |      
+| [Ken Vader](https://github.com/kenvader) <br> <img src="https://github.com/kenvader.png" width="100" height="100">                             | United States         | Java                   |                                                                                           |
 | [Dhiego Bersan](https://github.com/dhiegomaga/) <br> <img src="https://avatars0.githubusercontent.com/u/25873377?s=460&v=4" width="100" height="100">              | Brazil            	   |                    |                                                                           |
 | [Nishita Dutta](https://github.com/nish-d) <br> <img src="https://avatars1.githubusercontent.com/u/15178729?s=460&v=4" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/nish_d                                            |
 | [Oskari Kotajärvi](https://github.com/oskarikotajarvi) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">              | Finland           	   | Java             |                                                                                           |
 | [Hari](https://github.com/harimadhavan2000) <br> <img src="https://github.com/harimadhavan2000.png" width="100" height="100">      | India                  | C#                             |                                                                                               |
-| [RISHABH KEMNI](https://github.com/rishabhkemni/) <br>              | india              | python,c++                          | 
+| [RISHABH KEMNI](https://github.com/rishabhkemni/) <br>              | india              | python,c++                          |
 | [Yang](https://github.com/Yang8547/) <br> <img src="https://avatars3.githubusercontent.com/u/23243521?s=460&v=4" width="100" height="100">        | China             | Java
 | [Batislav R](https://github.com/bracar/) <br> <img src="https://github.com/bracar.png" width="100" height="100">                   | Serbia                 | C, Python, JavaScript   |                                                                                               |
 | [Fred C](https://github.com/frexcur/) <br> <img src="https://github.com/frexcur.png" width="100" height="100">                     | United States          | JAVA                           |                                                                                               |
@@ -99,7 +99,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Chaitanya Mattey](https://github.com/cmattey/) <br> <img src="https://github.com/cmattey.png" width="100" height="100">               | United States              | Python                           |                                                                                               |
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
-
+| [Waleed Islam](https://github.com/ByWaleed/) <br> <img src="https://avatars2.githubusercontent.com/u/33402306" width="100" height="100">               | United Kingdom              | JAVA                           |     https://www.linkedin.com/in/waleedislam/                                                                                          |
 
 ### License
 
