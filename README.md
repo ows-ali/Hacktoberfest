@@ -99,6 +99,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Chaitanya Mattey](https://github.com/cmattey/) <br> <img src="https://github.com/cmattey.png" width="100" height="100">               | United States              | Python                           |                                                                                               |
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
+| [Aditya Oberai](https://github.com/adityaoberai) <br> <img src="https://media.licdn.com/dms/image/C5103AQH_MHTi4iXJnQ/profile-displayphoto-shrink_200_200/0?e=1576108800&v=beta&t=xfJYWcAwVJtNUD8j_Q5XDuPYp43OYsBZY66fr-z1HGU" width="100" height="100">      | India                  | Java, C++                            |     https://www.linkedin.com/in/aditya-oberai-498a1897/                                                        |
 
 
 ### License
