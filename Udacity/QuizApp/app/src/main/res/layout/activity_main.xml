@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dp_100"
+        android:textSize="@dimen/sp_24"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="@string/welcome_text"/>
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/title"
+        android:textStyle="italic"
+        android:layout_marginTop="@dimen/dp_100"
+        android:textSize="@dimen/sp_16"
+        android:textColor="@color/black"
+        android:text="@string/ready"/>
+
+    <Button
+        android:id="@+id/yes_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/yes"
+        android:padding="@dimen/dp_16"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/question"
+        android:layout_marginTop="@dimen/dp_100"/>
+
+    <Button
+        android:id="@+id/no_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/no"
+        android:padding="@dimen/dp_16"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/yes_button"
+        android:layout_marginTop="@dimen/dp_16"/>
+
+    <LinearLayout
+        android:id="@+id/quiz_btns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dp_16"
+        android:layout_below="@+id/question">
+        <Button
+            android:id="@+id/true_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/true_btn"
+            android:padding="@dimen/dp_16"/>
+
+        <Button
+            android:id="@+id/false_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/false_btn"
+            android:padding="@dimen/dp_16"
+            android:layout_marginLeft="@dimen/dp_16" />
+    </LinearLayout>
+
+
+</RelativeLayout>

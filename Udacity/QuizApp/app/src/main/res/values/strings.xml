@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome_text">QuizApp</string>
+    <string name="ready">Are you ready to take a mind boggling quiz?</string>
+    <string name="yes">Yes, I am</string>
+    <string name="no">No, I am not</string>
+    <string name="later">Okay, see you later!</string>
+    <string name="true_btn">True</string>
+    <string name="false_btn">False</string>
+    <string name="thanks">Thanks for taking this quiz</string>
+    <string name="ques1">Earth is flat.</string>
+    <string name="ques2">2+2 gives 5</string>
+    <string name="ques3">There are just 10 countries in the world</string>
+    <string name="ques4">India\'s national language is Hindi</string>
+    <string name="ques5">Nile is the longest river</string>
+</resources>
