@@ -1,0 +1,14 @@
+https://www.hackerrank.com/challenges/python-power-mod-power/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign&isFullScreen=true
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+
+# define variables
+a = int(input())
+b = int(input())
+m = int(input())
+
+# print built-in function pow
+print(pow(a,b))
+
+#print pow(a,b,m)
+print(pow(a,b,m))
