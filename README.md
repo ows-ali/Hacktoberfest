@@ -98,7 +98,9 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Matei Oltean](https://github.com/Matei13) <br> <img src="https://github.com/Matei13.png" width="100" height="100">   | France    |   OCaml   |   |
 | [Chaitanya Mattey](https://github.com/cmattey/) <br> <img src="https://github.com/cmattey.png" width="100" height="100">               | United States              | Python                           |                                                                                               |
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
-| [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        | [Shubham Kumar](https://github.com/scheleon) <br> <img src="https://avatars0.githubusercontent.com/u/41225915?s=460&v=4" width="100" height="100">      | India                  | Java, C++, Bash                            |     http://linkedin.com/in/scheleon/ |
+| [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        | [Shubham Kumar](https://github.com/scheleon) <br> <img src="https://avatars0.githubusercontent.com/u/41225915?s=460&v=4" width="100" height="100">      
+| India                  | Java, C++, Bash                            |     http://linkedin.com/in/scheleon/ 
+|
 
 
 
