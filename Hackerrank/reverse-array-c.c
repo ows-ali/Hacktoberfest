@@ -11,7 +11,7 @@ int main()
     }
 
 
-    /* Write the logic to reverse the array. */
+    /* Write the logic to reverse the array . */
 
     for(i=num-1;i>=0;i--){
         printf("%d ",arr[i]);
