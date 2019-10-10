@@ -1,4 +1,4 @@
-from itertools import permutations
+#from itertools import permutations
 def word_value(w):
     place = 1
     value = 0
@@ -6,21 +6,7 @@ def word_value(w):
         value+=ord(i)*place
         place*=10
     return (value)
-def biggerIsGreater(w):   
-    #My Method
-                              
-    p = list(permutations(w))   #List all possible permutations
-    value = word_value(w)       #Takes value of the word through "w[-1]*10^0 + w[-2]*10^1 + w[-3]*10^2 ......."
-    value_diff_list = [word_value(i) - value for i in p]    #Takes value for each permutation
-    indexes = [value_diff_list.index(x) for x in value_diff_list if x <= 0] #lists indexes of elements whose number value is less than word"
-    for i in sorted(indexes,reverse = True):
-        p.pop(i)                        #Removes permutations with above indices
-        value_diff_list.pop(i)
-    if(len(p)>0):         #If there still remains any permutations
-        index = value_diff_list.index(min(value_diff_list))     #Find the permutation with min val difference between the permutation and word and return the permutation
-        return "".join(p[index])
-    else:
-        return 'no answer'  #If empty there is no possible answer
+
 
 def nextpermutation(w):
     w1 = list(w)
@@ -40,10 +26,7 @@ def nextpermutation(w):
          
 
 
-
-
-print(biggerIsGreater('dkhc'))
-print(nextpermutation('dkhc'))
+#print(nextpermutation('dkhc'))
 
 
 
