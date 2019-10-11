@@ -5,10 +5,10 @@
 - Clone the forked repository into local space
 - Choose any task on [Hackerrank](https://www.hackerrank.com/), [Codechef](https://www.codechef.com/) or any other online platform and solve it, (or choose your already solved question)
 - Paste the solution code in new file and name it in following format:
-PROBLEM_NAME.[Format of language used in your code]
+PROBLEM-NAME.[Format of language used in your code]
 (you should match it with the url, such that when a user type the url 
-hackkerrank.com/challenges/PROBLEM_NAME/problem 
-codechef.com/problems/PROBLEM_NAME
+hackkerrank.com/challenges/PROBLEM-NAME/problem
+codechef.com/problems/PROBLEM-NAME
 and so on
 it will be redirected to the actual problem page)
 - Place your source code file in respective folder (you can create a new folder if it is not present)
