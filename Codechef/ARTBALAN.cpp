@@ -14,7 +14,7 @@ int main()
         string s;
         cin>>s;
         
-        // arr is a storage array to keep the count of occurence of 			characters 
+        // arr is a storage array to keep the count of occurence of characters 
         int arr[26]={};
         
         for(int i=0;i<s.size();i++)
@@ -23,24 +23,24 @@ int main()
         }
         
         sort(arr,arr+26);
-        // arr is sorted to find the characters in the string which occur 			maximum number of times
+        // arr is sorted to find the characters in the string which occur maximum number of times
         
-        // initially ans is intialized to INT_MAX so that minimum number of 		operations can be found out
+        // initially ans is intialized to INT_MAX so that minimum number of operations can be found out
         int ans=INT_MAX,count=0;
         if(s.size()>=26)
         {
         	for(int i=1;i<=26;i++)
         	{
         	
-        		// if size of s is a multiple of i then we can divide the 					string into s.size()/i different groups of characters such 					that all characters that occur in this string occur in it the 					same number of times.
+        		// if size of s is a multiple of i then we can divide the string into s.size()/i different groups of characters such that all characters that occur in this string occur in it the same number of times.
             	if(s.size()%i==0)
             	{
             	
-            		// x is taken from the index i such that all the 						characters that have index i to 26 in the arr are taken 					into account
+            		// x is taken from the index i such that all the characters that have index i to 26 in the arr are taken into account
                 	int x=i;
                 	count=0;
                 	
-                	// group size of each character that can occur in the 						string = s.size()/i 
+                	// group size of each character that can occur in the string = s.size()/i 
                 	while(x)
                 	{
                     	if(arr[26-x]>(s.size()/i))
@@ -64,7 +64,7 @@ int main()
         }
         else
         {
-        	//all cases where group size of characters lies from 1 to 				s.size() is taken into account
+        	//all cases where group size of characters lies from 1 to s.size() is taken into account
             for(int i=1;i<=s.size();i++)
         	{
             	if(s.size()%i==0)
