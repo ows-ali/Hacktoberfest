@@ -1,10 +1,24 @@
-# https://www.hackerrank.com/challenges/a-very-big-sum/problem
-
 #!/bin/python3
 
+import math
+import os
+import random
+import re
 import sys
 
-n = int(input().strip())
-arr = [int(arr_temp) for arr_temp in input().strip().split(' ')]
+# Complete the aVeryBigSum function below.
+def aVeryBigSum(ar):
+    return sum(ar)
 
-print(sum(arr))
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    ar_count = int(input())
+
+    ar = list(map(int, input().rstrip().split()))
+
+    result = aVeryBigSum(ar)
+
+    fptr.write(str(result) + '\n')
+
+    fptr.close()
