@@ -16,7 +16,7 @@ it will be redirected to the actual problem page)
 - Add and commit the changes. (Please do not make changes in any other file, but if you want to work on bug/improvement then add an issue first)
 - Don't forget to add your name, image url, country and the language used in contributors table in the README.md file
 - Generate a Pull Request (Optional: add problem name in the title and url to the problem in description)
-- That's it, you have successfully completed your 1 out of 5 PRs. Well Done!
+- That's it, you have successfully completed your 1 out of 4 PRs. Well Done!
 
 
 # How to Sync Forked Repo from Upstream Repo
