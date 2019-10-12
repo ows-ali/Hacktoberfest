@@ -10,15 +10,15 @@ public class Solution {
 
     // Complete the alternatingCharacters function below.
     static int alternatingCharacters(String s) {
-        int delcount = 0;
+        int deletioncount = 0;
         int len = s.length();
         for(int i=0; i < len-1; i++){
             char temp = s.charAt(i);
             if(temp == s.charAt(i+1)){
-                delcount = delcount + 1;
+                deletioncount = deletioncount + 1;
             }
         }
-        return delcount;
+        return deletioncount;
 
     }
 
