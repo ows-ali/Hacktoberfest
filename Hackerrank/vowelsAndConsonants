@@ -1,0 +1,21 @@
+
+/*
+ * vowelsAndConsonants has one parameter, a string, consisting of lowercase English alphabetic letters (i.e., a through z).
+ * The function must do the following:
+ * First, print each vowel in  on a new line. The English vowels are a, e, i, o, and u, and each vowel must be printed in the same order as it appeared in .
+ * Second, print each consonant (i.e., non-vowel) in  on a new line in the same order as it appeared in .
+ */
+function vowelsAndConsonants(s) {
+    var strArray = s.split('');
+    var tempArray = [];
+    for(var i = 0; i < strArray.length ; i++) {
+        if(strArray[i] === 'a' || strArray[i] === 'e' ||strArray[i] === 'i' || strArray[i] === 'o' || strArray[i] === 'u') {
+            console.log(strArray[i]);
+    } else {
+            tempArray.push(strArray[i]);
+    }
+    }
+    for(var i = 0; i < tempArray.length; i++) {
+        console.log(tempArray[i]);
+    }
+}
