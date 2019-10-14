@@ -1,0 +1,19 @@
+if __name__ == '__main__':
+    s = input()
+check1=False
+check2=False
+check3=False
+check4=False
+check5=False   
+for i in range(len(s)):
+    if(s[i].isalnum()):
+        check1=True
+    if(s[i].isalpha()):
+        check2=True
+    if(s[i].isdigit()):
+        check3=True
+    if(s[i].islower()):
+        check4=True
+    if(s[i].isupper()):
+        check5=True        
+print(str(check1)+"\n"+str(check2)+"\n"+str(check3)+"\n"+str(check4)+"\n"+str(check5))
