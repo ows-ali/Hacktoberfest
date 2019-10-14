@@ -1,0 +1,13 @@
+import math
+
+h = int(input())
+b = int(input())
+
+hyp = ((h**2) + (b**2))**(0.5)
+
+nh = hyp/2
+nb = b/2
+
+an = math.acos(nb/nh)
+
+print(str(round(an * 180/math.pi)) + "°")
