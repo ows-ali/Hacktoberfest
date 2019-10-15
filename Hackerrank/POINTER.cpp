@@ -1,4 +1,4 @@
-//this solution includes adding the math.h library
+//this solution includes adding the math.h
 
 #include <stdio.h>
 #include <math.h>
