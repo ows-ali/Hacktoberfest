@@ -8,6 +8,8 @@ lastname huwy hawai dewey
 see more surname or-less
 
 and task is to seggregate lastname and first name, middle name, by seeing lastname/surname and parsing it
+
+This code can be tested by text file added in the same folder.
 '''
 
 def nameSeparator(line):
