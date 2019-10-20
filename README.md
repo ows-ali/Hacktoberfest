@@ -100,6 +100,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
+| [Jonathan Lie](https://github.com/jonlie1107) <br> <img src="https://avatars1.githubusercontent.com/u/12177957?s=460&v=4" width="100" height="100">   | United States   | Python |   |
 
 
 ### License
