@@ -1,0 +1,14 @@
+/*
+Working platform:- MySQL
+*/
+
+SELECT CONCAT (Name, "(", LEFT(occupation, 1), ")") as name_oc
+FROM occupations
+ORDER BY name_oc;
+SELECT CONCAT("There are a total of ", oc_count, " ", LOWER(occupation), "s.")
+FROM (
+    SELECT occupation, COUNT(occupation) as oc_count
+FROM occupations
+GROUP BY occupation
+ORDER BY oc_count, occupation
+) as t1;
