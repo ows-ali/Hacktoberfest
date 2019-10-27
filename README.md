@@ -1,4 +1,4 @@
-﻿# Hacktoberfest
+# Hacktoberfest
 
 [![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/issues)
@@ -100,6 +100,9 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
+                                                             |
+| [Ali Ahsan](https://github.com/yourappsgeek) <br> <img src="https://github.com/yourappsgeek.png" width="100" height="100">              | Pakistan         | Java, Android, Kotlin, iOS, Swift
+ |     https://www.linkedin.com/in/ali-ahsan-2b821a17a/
 
 
 ### License
