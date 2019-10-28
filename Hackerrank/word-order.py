@@ -1,22 +1,13 @@
 # Problem link: https://www.hackerrank.com/challenges/word-order/problem
 
-num = int(input())
-dic = {}
-words = []
+num=int(input())
+d = {}
 for i in range(num):
-    word = input()
-    if word not in dic:
-        dic[word] = 1
-        words.append(word)
+    word = input().strip()
+    if word in d:
+        d[word][1] += 1
+    else:
+        d[word] = [i, 1]
 
-    else: 
-        dic[word] += 1
-
-line = ""
-for key in words:
-    line += str(dic[key])+ " "
-
-line = line.rstrip(' ')
-
-print(len(dic))
-print(line)
+print(len(d))
+print(' '.join(str(d[x][1]) for x in sorted(d, key = lambda x: d[x][0])))
