@@ -1,3 +1,5 @@
+#https://www.codechef.com/problems/MDL
+
 import statistics 
 N=int(input())
 for i in range(0,N):
