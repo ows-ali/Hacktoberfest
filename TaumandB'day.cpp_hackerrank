@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        long long b,w,bc,wc,z;
+        cin>>b>>w;
+        cin>>bc>>wc>>z;
+        if(bc>wc+z)
+        bc=wc+z;
+        else if(wc>bc+z)
+        wc=bc+z;
+        cout<<b*bc+w*wc<<endl;
+    }
+}
