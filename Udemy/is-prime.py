@@ -1,13 +1,14 @@
-def is_prime(number):
-    if(number < 2):
-        return False
-        
-    #check if number is divisible by 2 to number - 1
-    for divisor in range(2, number):
-        if number % divisor == 0:
-            return False
-            
-    return True
-    
-print(is_prime(15))
-print(is_prime(10))
+def isPrime(n):
+    count=0
+    for i in range(2,n):
+        if(n%i==0):
+            count+=1
+    if(count>0):
+        return false
+    else:
+        return true
+inp=int(input())
+if(isPrime(inp)):
+    print("Prime Number")
+else:
+    print("Not a Prime Number")
