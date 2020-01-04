@@ -1,7 +1,7 @@
 ﻿# Hacktoberfest
 
 [![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/issues)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ows-ali/Hacktoberfest/issues)
 [![GitHub issues by-label](https://img.shields.io/github/issues/ows-ali/Hacktoberfest/help%20wanted.svg)](https://github.com/ows-ali/Hacktoberfest/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/ows-ali/Hacktoberfest.svg)](https://github.com/ows-ali/Hacktoberfest/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr/ows-ali/Hacktoberfest.svg)](https://github.com/ows-ali/Hacktoberfest/pulls?q=is%3Aopen+is%3Apr)
@@ -104,4 +104,4 @@ In this repository, you can find the solutions (as source code) for the problems
 
 ### License
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
