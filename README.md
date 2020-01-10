@@ -86,7 +86,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Ema Fazillah](https://github.com/emafazillah) <br> <img src="https://github.com/emafazillah.png" width="100" height="100">      | Malaysia                  | Java                             |                                                                                               |
 | [Passawat Noraman](https://github.com/tmteamz) <br> <img src="https://github.com/tmteamz.png" width="100" height="100">      | Thailand                  | Javascript                             |                                                                                               |
 | [Thiago Henrique](https://github.com/thiago-h) <br> <img src="https://github.com/thiago-h.png" width="100" height="100">      | Brasil                  | C++                             | https://www.urionlinejudge.com.br/judge/en/profile/10801                                                                                              |
-| [Victor Hung](https://github.com/vhung92) <br> <img src="https://github.com/vhung92.png" width="100" height="100">      | Sweden                  | Java, Scala, Go                             |     https://www.hackerrank.com/vhung                                                        |
+| [Victor Hung](https://github.com/vhung92) <br> <img src="https://github.com/vhung92.png" width="100" height="100">      | Sweden                  | Java, Scala, Go                             |     https://www.hackerrank.com/vhung       |
 | [Lan](https://github.com/90lantran) <br> <img src="https://avatars.githubusercontent.com/90lantran" width="100" height="100">       |United States       | Java       |
 | [Quinn Wright](https://github.com/gasilly) <br> <img src="https://github.com/gasilly.png" width="100" height="100">		     | United States	   | Java
 | [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
@@ -101,6 +101,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
 | [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
+| [Lakshika Parihar](https://github.com/lakshika1064) <br> <img src="https://github.com/lakshika1064.png" width="100" height="100">   | India   | C++ | https://www.hackerrank.com/pariharlakshika |
+
 
 ### License
 
