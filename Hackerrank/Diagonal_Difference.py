@@ -16,7 +16,7 @@ import sys
 def diagonalDifference(arr):
     """Computes the Diagnol Difference of a square matrix"""
 
-    # calculates right to left diagnol sum
+    # calculates right to left diagonal sum
     def right_to_left(arr): 
 
         right_to_left_sum = []
@@ -27,7 +27,7 @@ def diagonalDifference(arr):
 
         return sum(right_to_left_sum)
 
-    # calculates left to right diagnol sum
+    # calculates left to right diagonal sum
     def left_to_right(arr):
 
         left_to_right_sum = []
