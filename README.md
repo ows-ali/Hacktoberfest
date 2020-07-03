@@ -100,7 +100,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Andreas Petridis](https://github.com/petridisa) <br> <img src="https://github.com/petridisa.png" width="100" height="100">   | Greece   | Java |   |
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
-| [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
+| [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |   |
+| [Gesiane Pajarinen](https://github.com/GePajarinen) <br> <img src="https://avatars0.githubusercontent.com/u/58811514?s=460&u=2cbf1dc2a8fbe4d20576275a55fb546f36671f03&v=4" width="100" height="100">      | Brazil                  | Python                            |     https://www.linkedin.com/in/gesiane-pajarinen/                                                        |
 
 ### License
 
