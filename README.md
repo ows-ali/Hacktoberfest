@@ -10,10 +10,10 @@ This repository is mainly open to those who are looking to make some PR for the 
 In this repository, you can find the solutions (as source code) for the problems in [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) or any other online platform
 
 ### Why contribute to this repository
-- Beginner-friendly
-- Create your first Pull Request on GitHub
-- Start with any problem of your choice on [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) etc
-- Chance of receiving a T-Shirt for participating in the [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- Beginner-friendly. 
+- Create your first Pull Request on GitHub. 
+- Start with any problem of your choice on [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) etc. 
+- Chance of receiving a T-Shirt for participating in the [Hacktoberfest](https://hacktoberfest.digitalocean.com). 
 
 ### How to Contribute (Updated)
 - For contributions in this repository, please read `CONTRIBUTING.md` first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
