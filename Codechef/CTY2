@@ -1,0 +1,45 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+class TheLegendryCoinChange {
+
+    static long[] coins;
+
+    static long coinCombinations(long n, int m){
+        if(n == 0)
+            return 1L;
+
+        if(m == 0)
+            return 0L;
+
+        long counter = 0L;
+        long divisor = n / coins[m-1];
+        for(int i = 0; i <= divisor; i++){
+                counter+= coinCombinations(n - (coins[m-1] * i), m-1);
+        }
+        return counter;
+    }
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String line = br.readLine();
+        StringTokenizer st = new StringTokenizer(line);
+
+        int n = Integer.parseInt(st.nextToken());
+        int m = Integer.parseInt(st.nextToken());
+
+        line = br.readLine();
+        st = new StringTokenizer(line);
+
+        coins = new long[m];
+        for(int i = 0; i < m; i++){
+            coins[i] = Long.parseLong(st.nextToken());
+        }
+
+        long ways = coinCombinations(n, m);
+
+        System.out.println(ways);
+    }
+}
