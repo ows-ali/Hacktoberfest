@@ -101,6 +101,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
 | [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
+| [Prateek Singh](https://github.com/PrateekSingh009) <br> <img src="https://avatars2.githubusercontent.com/u/56078678?s=400&u=e8aea7ceab6e7dd6bf2c5495c3d7e55f3aef43ff&v=4" width="100" height="100">   | India   | Java | https://www.hackerrank.com/prtksng0904  |
+
 
 ### License
 
