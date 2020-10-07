@@ -1,0 +1,350 @@
+// Question link ----------------- https://www.codechef.com/UCDS2020/problems/MIDLE003
+
+// ########################################## SOLUTION ####################################
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Node{
+	public:
+		int data;
+		Node *next;
+};
+
+/*void create(Node **head_ref)
+{
+	Node *first = new Node();
+	Node *second = new Node();
+	Node *third = new Node();
+
+	first->data = 10;
+	first->next = second;
+
+	second->data = 1;
+	second->next = third;
+
+	third->data = 7;
+	third->next = NULL;
+
+	*head_ref = first;
+}*/
+
+int isCircular = 0;
+int frequency[1000];
+
+Node *insertAtEnd(Node **head_ref, int new_data)
+{
+	Node *new_node = new Node();  
+     
+    new_node->data = new_data;   
+    new_node->next = NULL;   
+    
+    if(*head_ref == NULL)   
+    {   
+        *head_ref = new_node;  
+        frequency[(*head_ref)->data] = 0; 
+
+        return *head_ref; 
+    }   
+   
+   	Node *last = *head_ref;
+
+    while(last->next != NULL && last->next != *head_ref)
+    {
+    	  last = last->next;   
+    }   
+    
+    if(last->next == *head_ref)
+    {
+    	new_node->next = *head_ref;
+    }
+
+    last->next = new_node;
+
+    return *head_ref;
+}
+
+Node *before_after(Node **head_ref, int y, int x)
+{
+   Node *ptr = *head_ref;
+
+	while(ptr != NULL)
+	{
+		if(ptr->data == y && ptr->next != *head_ref)
+		{
+			Node *prev = new Node();
+			prev->data = x;
+			prev->next = NULL;
+			prev->next = ptr->next;
+			ptr->next = prev;
+
+			return *head_ref;
+		}
+
+		ptr = ptr->next;
+	}
+
+	ptr = *head_ref;
+
+	Node *after = new Node();
+	after->data = y;
+	after->next = NULL;
+
+	if(ptr->data == x)
+	{
+		frequency[(*head_ref)->data] = 1;
+		frequency[y] = 0;
+
+		after->next = *head_ref;
+		*head_ref = after;
+
+		return *head_ref;
+	}
+
+	while(ptr->next->data != x)
+	{
+		ptr = ptr->next;
+	}
+
+	after->next = ptr->next;
+	ptr->next = after;
+
+	return *head_ref;
+}
+
+Node *insert_mid(Node **head_ref, int z, int y, int x)
+{
+    Node *new_node = new Node;
+
+    new_node->data  = x;
+    new_node->next = NULL;
+
+    Node *ptr = *head_ref;
+
+    while(ptr->data != z)
+    {
+        ptr = ptr->next;
+    }
+
+    Node *ptr2 = ptr;
+
+    int count = 0;
+
+    while(ptr2->data != y)
+    {
+	    count++;
+        ptr2 = ptr2->next;
+    }
+
+    count = count/2;
+
+    while(count--)
+    {
+        ptr = ptr->next;
+    }
+
+    new_node->next = ptr->next;
+    ptr->next = new_node;
+
+    return *head_ref;
+    
+}
+
+Node *circular(Node **head_ref, int x, int p)
+{
+	Node *ptr = *head_ref;
+	Node *ptr1, *ptr2;
+
+	while(ptr->next != NULL)
+	{
+		if(ptr->data == x)
+		{
+			break;
+		}
+
+		ptr = ptr->next;
+	}
+
+	if(ptr->next == NULL)
+	{
+		isCircular = 1;
+
+		ptr->next = *head_ref;
+		frequency[(*head_ref)->data]++;
+	}
+
+	ptr1 = ptr->next;
+	ptr2 = ptr;
+
+	while(p--)
+	{
+		if(ptr2->next == NULL)
+		{
+			ptr2->next = *head_ref;
+			frequency[(*head_ref)->data]++;
+			isCircular = 1;
+		}
+
+		ptr2 = ptr2->next;
+	}
+
+	if(frequency[ptr->next->data] > 0)
+	{
+		frequency[ptr->next->data]--;
+	}
+
+	ptr->next = ptr2;
+
+	frequency[ptr2->data]++;
+
+	return *head_ref;
+}
+
+void printList(Node *head_ref)
+{
+	Node *ptr = head_ref;
+
+	while(ptr->next != head_ref)
+	{
+		cout << ptr->data << " ";
+		ptr = ptr->next;
+	}
+
+	if(ptr->next == head_ref)
+	{
+		cout << ptr->data << endl;
+	}
+}
+
+Node *printCircular(Node *head_ref)
+{
+	while(head_ref != NULL)
+	{
+		cout << head_ref->data << " ";
+		head_ref = head_ref->next;
+	}
+
+	cout << endl;
+
+	return head_ref;
+}
+
+int main()
+{
+	for(int i = 0; i < 1000; i++)
+	{
+		frequency[i] = 1;
+	}
+
+	Node *head = NULL;
+
+	int n;
+	cin >> n;
+
+	while(n--)
+	{
+		char op;
+		cin >> op;
+
+		int op1;
+		int x, y, z, p;
+
+		if(op == 'I')
+		{
+			cin >> op1;
+
+			if(op1 == 0)
+			{
+				cin >> x;
+
+				//create(&head);
+				head = insertAtEnd(&head, x);
+				//printList(head);
+			}
+
+			if(op1 == 1)
+			{
+				cin >> y >> x;
+
+				//create(&head);
+				head = before_after(&head, y, x);
+				//printList(head);
+			}
+
+			if(op1 == 2)
+			{
+				cin >> z >> y >> x;
+
+				//create(&head);
+				head = insert_mid(&head, z, y, x);
+				//printList(head);
+			}
+		}
+
+		if(op == 'U')
+		{
+			cin >> x >> p;
+
+			if(head == NULL || x <= 0 && p <= 0)
+			{
+			    
+			} 
+
+			else
+			{
+				head = circular(&head, x, p);
+			}
+		}
+	}
+
+	cout << isCircular << endl;
+
+	int length = 1000;
+	int length2 = 0;
+
+	for(int i = 0; i < length; i++)
+	{
+		if(frequency[i] > 1)
+		{
+			length2++;
+		}
+	}
+
+	cout << length2 << endl;
+
+	if(length2 > 0)
+	{
+		for(int i = 0; i < length; i++)
+		{
+			if(frequency[i] > 1)
+			{
+				cout << i << " ";
+			}
+		}
+
+		cout << endl;
+
+		for(int i = 0; i < length; i++)
+		{
+			if(frequency[i] > 1)
+			{
+				cout << frequency[i] << " ";
+			}
+		}
+	}
+
+	else
+	{
+		if(isCircular == 0)
+		{
+			printCircular(head);
+		}
+
+		else
+		{
+			printList(head);
+		}
+	}
+
+	return 0;
+}
