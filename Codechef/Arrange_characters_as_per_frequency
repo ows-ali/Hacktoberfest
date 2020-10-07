@@ -1,0 +1,417 @@
+// Question link ------- https://www.codechef.com/UCDS2020/problems/MIDLE001
+
+
+// ################################### SOLUTION ##########################################
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Node{
+
+public:
+
+	int data;
+	Node *next;
+	char var ;
+};
+
+void insert(Node **head, int item , char var)
+{
+	Node *temp = new Node;
+	Node *ptr;
+
+	temp->data = item;
+	temp->var = var ; 
+	temp->next = NULL;
+
+	if(*head == NULL)
+		*head = temp;
+
+	else
+	{
+		ptr = *head;
+		while(ptr->next != NULL)
+		{
+			ptr = ptr->next;
+		}
+
+		ptr->next = temp;
+	}
+}
+
+int getCount(Node* head) 
+{ 
+    int count = 0;  // Initialize count 
+    Node* current = head;  // Initialize current 
+    while (current != NULL) 
+    { 
+        count++; 
+        current = current->next; 
+    } 
+    return count; 
+}
+
+void insertNodeAtBeginning(Node ** head , int data , char var)
+{
+    Node *newNode = new Node;
+
+    if(newNode == NULL)
+    {
+        printf("Unable to allocate memory.");
+    }
+    else
+    {
+        newNode->data = data; // Link data part
+        newNode->var = var ; 
+        newNode->next = *head; // Link address part
+
+        *head = newNode;          // Make newNode as first node
+
+        // printf("DATA INSERTED SUCCESSFULLY\n");
+    }
+}
+void insertElementAtEnd(Node **right, int value , char var)
+{
+	Node *newNode = new Node();
+	newNode->data = value;
+	newNode->var = var ; 	
+	newNode->next = NULL;
+	if(*right == NULL)
+	{
+		*right = newNode;
+	}
+
+	else
+	{
+		Node *temp = *right;
+
+		while(temp->next != NULL)
+		{
+			temp = temp->next;
+		}
+
+		temp->next = newNode;
+	}
+}
+
+/*int search(Node ** head , char key)
+{
+    int index;
+    Node *curNode;
+
+    index = 0;
+    curNode = *head;
+
+    // Iterate till last element until key is not found
+    while (curNode != NULL && curNode->var != key)
+    {
+        index++;
+        curNode = curNode->next;
+    }
+
+
+    return (curNode != NULL) ? index : -1;
+}*/
+
+void deleteNode(Node **head_ref, char key) 
+{ 
+    // Store head node 
+    Node* temp = *head_ref, *prev; 
+  
+    // If head node itself holds the key to be deleted 
+    if (temp != NULL && temp->var == key) 
+    { 
+        *head_ref = temp->next;   // Changed head 
+        free(temp);               // free old head 
+        return; 
+    } 
+  
+    // Search for the key to be deleted, keep track of the 
+    // previous node as we need to change 'prev->next' 
+    while (temp != NULL && temp->var != key) 
+    { 
+        prev = temp; 
+        temp = temp->next; 
+    } 
+  
+    // If key was not present in linked list 
+    if (temp == NULL) return; 
+  
+    // Unlink the node from linked list 
+    prev->next = temp->next; 
+  
+    free(temp);  // Free memory 
+} 
+
+/*int GetNth(Node* head, int index)  
+{  
+      
+    Node* current = head;  
+    int count = 0;  
+    
+    while (current != NULL)  
+    {  
+        if (count == index)  
+            return(current->data);  
+    
+        count++;  
+        current = current->next;  
+    }  
+    return 0 ;         
+}*/ 
+
+// void printList(Node *head , string str)
+// {
+// 	int i=0 ; 
+// 	int prev_char[26] = {0};
+
+// 	// for(char elem: str) 
+// 	// {
+// 	// 	if(prev_char[elem-'a']==0)
+// 	// 	{
+// 	// 		cout << elem << " " <<  << " ";
+
+// 	// 		prev_char[elem-'a']++;
+
+// 	// 		j++ ; 
+// 	// 	}
+// 	// }
+
+// 	// if((GetNth(head , elem-'a') > 0) && (prev_char[elem-'a']==0)) 
+// 	// 	{
+// 	// 		cout << elem << " " << GetNth(head , elem-'a') << " ";
+// 	// 		prev_char[elem-'a']++;		
+// 	// 	}
+
+// 	cout << endl ; 
+// }
+
+void print(Node* n) 
+{ 
+    while (n != NULL) { 
+        cout << n->var << " " << n->data<< " " ; 
+        n = n->next; 
+    } 
+
+    cout << endl;
+} 
+
+Node *ArrayToList(int arr[] , char arr2[])
+{
+	Node *head = NULL;
+
+	int i=0 ;
+
+	while(arr[i] >0)
+	{
+		insert(&head, arr[i] , arr2[i]) ;
+		i++ ;
+	}
+
+	return head;
+}
+
+Node *leftptr(Node *head, int x)
+{
+	Node *left = NULL;
+
+	Node* temp = head ; 
+	// cout << "y" << endl ; 
+
+	for(int i=0 ; i<getCount(head) ; i++)
+	{
+
+		if((temp)->data != x)
+		{
+			temp = (temp)->next ; 
+		} 
+
+		else
+		{
+			left = temp  ; 
+			break ; 
+		}
+	}
+	return left;
+}
+
+Node *rightptr(Node *head, int x)
+{
+	Node *right = NULL;
+
+	Node* temp = head ; 
+
+	for(int i=0 ; i<getCount(head) ; i++)
+	{
+		// cout << "y" << endl ; 
+		if((temp)->data == x)
+		{
+			right = temp ;
+
+		} 
+		
+		temp = (temp)->next ; 
+	}
+
+	return right;
+}
+
+Node* result(Node *left_pointer, Node *right_pointer, Node *head , int x)
+{
+	// cout << "y" << endl; 
+
+	if(left_pointer == right_pointer)
+	{
+		print(head);
+
+		return head;
+	}
+
+	left_pointer = left_pointer->next;
+	
+	while(left_pointer != right_pointer)
+	{
+		// cout << "y" << endl; 
+		// cout << left_pointer->data << endl ;
+
+		if(left_pointer->data < x)
+		{
+			Node* temp = left_pointer ; 
+			// cout << left_pointer->var << endl ; 
+			left_pointer = left_pointer->next ;
+			// cout << "y1" << endl ; 
+			
+			
+			int a = temp->data ; 
+			char b = temp->var ; 
+
+			deleteNode(&head , temp->var);
+			// cout << left_pointer << endl ; 
+			insertNodeAtBeginning(&head ,a , b) ; 
+
+			// cout << left_pointer->var << endl ;
+			
+
+			// print(head) ;
+			// cout << left_pointer << endl ; 
+			// cout << left_pointer->var << endl ; 
+			// cout << left_pointer->data << endl ; 
+			// cout << right_pointer << endl ; 
+		}
+
+		else if(left_pointer->data > x)
+		{
+			Node* temp = left_pointer ; 
+			left_pointer = left_pointer->next ;
+			// cout << "y2" << endl ; 
+			
+			int c = temp->data;
+			int d = temp->var;
+			
+			deleteNode(&head , temp->var);
+			
+			insertElementAtEnd(&head, c , d);
+		}
+		else
+		{
+			left_pointer = left_pointer->next ;
+		}
+
+		// print(head) ; 
+	}
+	print(head) ; 
+
+	return head ; 
+
+}
+
+
+int main()
+{
+	ios_base::sync_with_stdio(false); 
+    cin.tie(NULL);   
+
+	string str;
+	getline(cin , str);
+
+	int testcase ; 
+
+	cin >> testcase ; 
+	// cout << str << endl ; 
+
+	int len = str.size();
+
+	int i = 0;
+
+	int arr[26] = {0}, prev_char[26] = {0};
+	int ans[26] = {0} ;
+	char arr2[26] ={'0'} ;  
+
+	int k;
+
+	while(str[i] != '\0')
+	{
+		if(str[i] >= 'a' && str[i] <= 'z')
+		{
+			k = str[i] - 'a';
+			arr[k]++;
+		}
+
+		i++;
+	}
+
+	int j=0 ; 
+
+	for(char elem: str)
+	{
+		if(prev_char[elem-'a']==0)
+		{
+			// cout << arr[elem-'a'] ; 
+			ans[j] = arr[elem-'a'] ;
+			arr2[j] = elem ; 
+			cout << elem <<" "<<arr[elem-'a'] << " ";
+
+			prev_char[elem-'a']++;
+
+			j++ ; 
+		}
+	}	
+
+	cout << endl;
+	// while(ans[j] > 0)
+	// {
+	// 	cout << ans[j] << " " ; 
+	// 	j++ ; 
+	// }
+
+	// cout << endl  ;
+
+	Node *head = ArrayToList(ans , arr2);
+
+	// print(head) ; 
+
+	for(int i=0 ; i<testcase ; i++)
+	{	
+
+		int x ; 
+
+		cin >> x ; 
+		// Node *head = ArrayToList(ans , arr2);
+
+		// cout <<"y" <<endl ; 
+
+		Node *right_pointer = rightptr(head, x);
+
+		// cout <<"y" <<endl ; 
+
+		Node *left_pointer = leftptr(head,x );
+
+		// cout << right_pointer << endl ; 
+		// cout << left_pointer << endl ; 
+		// cout <<"y" <<endl ; 		
+		head = result(left_pointer , right_pointer, head , x) ;
+		// cout <<"y" <<endl ; 
+	}
+	
+	return 0;
+}
