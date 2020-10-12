@@ -1,0 +1,48 @@
+#include <stdio.h>
+#include<math.h>
+void func();
+int main()
+{
+    long long int t;
+    scanf("%lld", &t);
+    while(t > 0)
+    {
+        func();
+        t--;
+    }
+    return 0;
+}
+void func()
+{
+    long long int n, a[] = {0, 0, 0}, r, p, i;
+    scanf("%lld", &n);
+    if(n <= 26)
+    {
+    r = n % 27;
+    n = n / 27;
+    p = pow(2, n);
+    if(r > 10)
+        a[2] = p;
+    else if( r > 2)
+        a[1] = p;
+    else
+        a[0] = p;
+    }
+    else
+    {
+        r = (n - 1)% 26;
+        n = (n - 1)/ 26;
+        p = pow(2, n);
+        if(r >= 10)
+            a[2] = p;
+        else if( r >= 2)
+            a[1] = p;
+        else
+            a[0] = p;
+
+    }
+    for(i = 0; i < 3; i++)
+        printf("%lld ", a[i]);
+    printf("\n");
+}
+

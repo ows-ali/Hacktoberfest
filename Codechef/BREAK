@@ -1,0 +1,35 @@
+t, s = map(int, input().split())
+while t  > 0:
+	if s == 1:
+		n = int(input())
+		a = list(map(int, input().split()))
+		b = list(map(int, input().split()))
+		a.sort()
+		b.sort()
+		flag = 1
+		lala = set()
+		for i in range(n):
+			if(i == 0):
+				if(a[i] >= b[i]):
+					flag = 0
+					break
+				else:
+					lala.add(a[i])
+					lala.add(b[i])
+			else:
+				if(a[i]) in lala:
+					if(a[i] >= b[i]):
+						flag = 0
+						break
+					else:
+						lala.add(a[i])
+						lala.add(b[i])
+				else:
+					flag = 0
+					break
+		if flag == 1:
+			print('YES')
+		else:
+			print('NO')
+	t = t - 1
+		
