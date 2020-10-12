@@ -10,3 +10,9 @@ def swapChar(char):
         return char.upper()
     else:
         return char.lower()
+    
+n=input()
+if len(n)==1:
+    print(swapChar(n))
+else:
+    print(swap_case(n))
