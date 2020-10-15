@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/premium_rel"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_animator"
+    tools:context=".Premium">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/premium"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/sp_32"
+        android:textStyle="bold"
+        android:textColor="@color/colorWhite"
+        android:fontFamily="@font/mont_light"
+        android:layout_marginTop="@dimen/dp_100"/>
+
+    <ImageView
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="@dimen/dp_100"
+        android:src="@drawable/ic_music_note_24dp"
+        android:layout_marginTop="@dimen/dp_70"
+        android:alpha="0.7"
+        android:layout_marginRight="-40dp"
+        android:layout_toLeftOf="@+id/title"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_300"
+        android:layout_marginLeft="@dimen/dp_40"
+        android:layout_marginRight="@dimen/dp_40"
+        android:layout_marginTop="@dimen/dp_70"
+        android:gravity="center"
+        android:layout_below="@+id/title">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.4"
+            android:background="@drawable/textview_bg"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/prem_text"
+            android:padding="@dimen/dp_16"
+            android:textSize="@dimen/sp_24"
+            android:fontFamily="@font/mont_light"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

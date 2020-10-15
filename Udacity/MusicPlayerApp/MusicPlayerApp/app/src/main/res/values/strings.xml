@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tempo - Music App</string>
+    <string name="title">Tempo</string>
+    <string name="library">Music Library</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="premium">Premium</string>
+    <string name="explore">Explore Top Genres</string>
+    <string name="genres">Genre</string>
+    <string name="prem_text">>>No interruptions\n\n>>Offline playback\n\n>>Play Tempo everywhere\n\n>>Pay your way\n\n</string>
+</resources>
