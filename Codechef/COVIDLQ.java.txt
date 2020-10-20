@@ -1,0 +1,16 @@
+T = int(input())
+
+for _ in range(T):
+    # The queue length is not useful in python
+    input()
+    q = [int(x) for x in input().split()]
+    people_indexs = []
+    for i in range(len(q)):
+        if q[i] == 1:
+            people_indexs.append(i)
+    for p in range(len(people_indexs) - 1):
+        if (people_indexs[p+1] - people_indexs[p]) < 6:
+            print("NO")
+            break
+    else:
+        print("YES")
