@@ -1,4 +1,4 @@
-/*Guess Number between 1 to 100)
+/*Guess Number between 1 to 100)*/
 
 #include<stdio.h>
 #include<stdlib.h>
