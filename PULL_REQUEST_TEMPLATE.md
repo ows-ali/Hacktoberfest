@@ -1,7 +1,5 @@
 ###### Closing Issue/Referencing Issue
-issue reference (#) 
+
+issue reference (#)
 
 ###### Changes Made In Pull Request
-
-*
-*
