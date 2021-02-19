@@ -89,6 +89,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Victor Hung](https://github.com/vhung92) <br> <img src="https://github.com/vhung92.png" width="100" height="100">      | Sweden                  | Java, Scala, Go                             |     https://www.hackerrank.com/vhung                                                        |
 | [Lan](https://github.com/90lantran) <br> <img src="https://avatars.githubusercontent.com/90lantran" width="100" height="100">       |United States       | Java       |
 | [Quinn Wright](https://github.com/gasilly) <br> <img src="https://github.com/gasilly.png" width="100" height="100">		     | United States	   | Java
+| [Souraprabha Ganguly](https://github.com/terminator0002) <br> <img src="https://github.com/terminator0002.png" width="100" height="100">     | India  |
 | [Lantz Warrick](https://github.com/betalantz) <br> <img src="https://github.com/betalantz.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
 | [Rivka Klein](https://github.com/RivkieKlein) <br> <img src="https://github.com/RivkieKlein.png" width="100" height="100">      | United States                  | Java                             |
 [Anh T Nguyen](https://github.com/shin2903) <br> <img src="https://github.com/shin2903.png" width="100" height="100">      | Vietnam                  | Java                             |
