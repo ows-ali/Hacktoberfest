@@ -29,6 +29,8 @@ In this repository, you can find the solutions (as source code) for the problems
 
 | Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
+| [Rishab Jain](https://github.com/rishabjn) <br> <img src="https://github.com/rishabjn.png" width="100" height="100">               | India              | JAVA                           |     https://leetcode.com/rishabjn/       |
+
 | [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |                                                                                               |
 | [Yuibun](https://github.com/yuibun/) <br> <img src="https://github.com/yuibun.png" width="100" height="100">                       | United States         | C++                            |                                                                                               |
 | [Roopam Sharma](https://github.com/RoopamSharma/) <br> <img src="https://github.com/RoopamSharma.png" width="100" height="100">    | United States         | Python3                        |                                                                                               |
