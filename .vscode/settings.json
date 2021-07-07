@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "/usr/local/Cellar/python/2.7.14_2/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python"
+    "python.pythonPath": "/usr/bin/python3",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
