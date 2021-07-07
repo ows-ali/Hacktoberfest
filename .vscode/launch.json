@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaircaseRight",
+            "request": "launch",
+            "mainClass": "StaircaseRight"
+        }
+    ]
+}
