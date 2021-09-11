@@ -8,19 +8,29 @@ import java.util.regex.*;
 
 class Result {
 
+    /*
+     * Complete the 'staircase' function below.
+     *
+     * The function accepts INTEGER n as parameter.
+     */
+
     public static void staircase(int n) {
     // Write your code here
-      for(int i=1; i<=n; i++){
-          for(int j=1; j<=n; j++){
-              if(j >= 7-i)
-              System.out.printf("#");
-              
-              else
-                  System.out.printf(" ");
-              
-          }
-          System.out.println();
-      }
+       for(int i=1; i<=n; i++)
+       {
+           for(int j=1; j<=n; j++)
+           {
+               if(j>=(n+1)-i)
+               {
+                   System.out.printf("#");
+               }
+               else
+               {
+                   System.out.printf(" ");
+               }
+           }
+           System.out.println();
+       }
     }
 
 }
