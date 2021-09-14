@@ -1,0 +1,65 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define pb                push_back
+#define all(x)            (x).begin(),(x).end()
+#define int               long long
+#define M                 1000000007
+#define MM                998244353
+#define fr                first
+#define sc                second
+#define vc                vector
+#define pii               pair<int,int>
+#define msi               map<string,int>
+#define mii               map<int,int>
+#define psi               pair<string,int>
+#define pis               pair<int,string>
+signed main()
+{
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    #ifndef ONLINE_JUDGE
+   // freopen("input.txt","r",stdin);
+   // freopen("output.txt","w",stdout);
+    #endif
+    vector<int> arr;
+    int n,temp,m;
+    cin>>n;
+    int lastval=-1;
+    for(int i=0; i<n; i++)
+    {
+        cin>>temp;
+        if(lastval!=temp)
+        {
+            arr.push_back(temp);
+            lastval=temp;
+        }
+    }
+    int prevrank=arr.size()+1;
+    cin>>m;
+    int temp2;
+    for(int i=0; i<m; i++)
+    {
+        int flag=0;
+        cin>>temp2;
+        int j=prevrank-2;
+        while(j>=0)
+        {
+            if(arr[j]>temp2)
+            {
+                cout<<j+2<<endl;
+                flag=1;
+                prevrank=j+2;
+                break;
+            }
+            j--;
+        }
+        if(flag==0)
+        {
+            cout<<"1"<<endl;
+            prevrank=1;
+        }
+        
+    }
+    
+}

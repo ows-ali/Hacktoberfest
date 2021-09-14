@@ -1,0 +1,37 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        int n,k=1,sum=0;
+        cin>>n;
+        int q[n];
+        for(int i=0;i<n;i++)
+            cin>>q[i];
+        for(int i=0;i<n;i++)
+        {
+            int ap=q[i]-1;
+            int cp=i;
+            if(ap>cp && (ap-cp)>2)
+            {
+                cout<<"Too chaotic"<<endl;
+                k=0;
+                break;
+            }
+            for(int j=max(0,q[i]-2);j<i;j++)
+            {
+                if(q[j]>q[i])
+                sum++;
+            }
+        }
+        if(k!=0)
+        cout<<sum<<endl;
+       
+    }
+}
