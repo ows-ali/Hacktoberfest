@@ -3,11 +3,12 @@
 #include<string>
 
 double off(float billPrice, float disc);
+using namespace std;
 
 int main()
 {
 	system("color 0A");
-	using namespace std;
+	
 
 	float billPrice;
 
