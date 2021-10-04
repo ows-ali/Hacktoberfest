@@ -6,7 +6,7 @@
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/ows-ali/Hacktoberfest.svg)](https://github.com/ows-ali/Hacktoberfest/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr/ows-ali/Hacktoberfest.svg)](https://github.com/ows-ali/Hacktoberfest/pulls?q=is%3Aopen+is%3Apr)
 
-This repository is mainly open to those who are looking to make some PR for the Hacktoberfest event, and to get started with GitHub and the open-source world.
+This repository is mainly open to those looking to make some PR for the Hacktoberfest event and get started with GitHub and the open-source world.
 In this repository, you can find the solutions (as source code) for the problems in [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) or any other online platform
 
 ### Why contribute to this repository
