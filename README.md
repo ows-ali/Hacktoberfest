@@ -6,7 +6,7 @@
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/ows-ali/Hacktoberfest.svg)](https://github.com/ows-ali/Hacktoberfest/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr/ows-ali/Hacktoberfest.svg)](https://github.com/ows-ali/Hacktoberfest/pulls?q=is%3Aopen+is%3Apr)
 
-This repository is mainly open to those who are looking to make some PR for the Hacktoberfest event, and to get started with GitHub and the open-source world.
+This repository is mainly open to those looking to make some PR for the Hacktoberfest event and get started with GitHub and the open-source world.
 In this repository, you can find the solutions (as source code) for the problems in [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) or any other online platform
 
 ### Why contribute to this repository
@@ -17,7 +17,7 @@ In this repository, you can find the solutions (as source code) for the problems
 
 ### How to Contribute (Updated)
 - For contributions in this repository, please read `CONTRIBUTING.md` first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
-- If you like the repository, please star it.
+- If you liked the repository, please star it.
 
 ### Learning Resources
 
