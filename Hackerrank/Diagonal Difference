@@ -1,0 +1,129 @@
+In c:
+
+int diagonalDifference(int arr_rows, int arr_columns, int** arr) {
+    int l_diagonal_sum = 0, r_diagonal_sum = 0;
+    for(int i = 0; i< arr_rows;i++)
+    {
+        for(int j=0;j<arr_columns;j++)
+        {
+            if(i == j)
+            {
+                l_diagonal_sum += arr[i][j];
+            }
+
+            if((i+j) == (arr_columns-1))
+            {
+                r_diagonal_sum += arr[i][j];
+            }
+        }
+    }
+
+    return abs(l_diagonal_sum - r_diagonal_sum);
+
+}
+
+
+
+
+In C ++ :
+
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {  
+    int N; 
+    cin >> N; 
+    
+    int i, j; 
+    
+    int sumdiag1 = 0; 
+    int sumdiag2 = 0; 
+    for(i = 0; i < N; i++){
+        for(j = 0; j< N; j++)
+        {
+           int no; 
+           cin >> no; 
+           if(i == j)
+               sumdiag1 += no; 
+           if(i+j == N-1)
+              sumdiag2 += no; 
+        }
+    }
+    
+    cout << abs(sumdiag1 - sumdiag2);
+    return 0;
+}
+
+
+
+
+In Java : 
+
+
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        int n;
+        Scanner in=new Scanner(System.in);
+        n=in.nextInt();
+        int a[][]=new int[n][n];
+        for(int i=0;i<n;i++){
+        	for(int j=0;j<n;j++){
+        		a[i][j]=in.nextInt();
+        	}
+        }
+        int pd=0,npd=0;
+        for(int i=0;i<n;i++){
+        	for(int j=0;j<n;j++){
+        		if(j==i)
+        			pd=pd+a[i][j];
+        	}
+        }
+        for(int i=0;i<n;i++){
+        	for(int j=0;j<n;j++){
+        		if(i==n-j-1){
+        			npd=npd+a[i][j];
+        		}
+        	}
+        }
+        int dif=npd-pd;
+        dif=Math.abs(dif);
+        System.out.println(dif);
+    }
+}
+
+
+
+
+In Python3 : 
+
+
+N=int(input())
+grid=[]
+for i in range(0,N):
+    lists=[int(i) for i in input().split()]
+    grid.append(lists)
+count=0
+sum1=0
+sum2=0
+j1=0
+j2=N-1
+while(count<N):
+    sum1=sum1+grid[count][j1]
+    sum2=sum2+grid[count][j2]
+    count+=1
+    j1+=1
+    j2-=1
+print(abs(sum1-sum2))
