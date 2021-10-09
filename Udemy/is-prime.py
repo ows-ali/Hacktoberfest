@@ -3,9 +3,11 @@ def is_prime(number):
         return False
         
     #check if number is divisible by 2 to number - 1
-    for divisor in range(2, number):
+    divisor=2
+    while divisor*divisor <= number:
         if number % divisor == 0:
             return False
+        divisor+=1
             
     return True
     
