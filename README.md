@@ -80,6 +80,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [RISHABH KEMNI](https://github.com/rishabhkemni/) <br>              | india              | python,c++                          | 
 | [Yang](https://github.com/Yang8547/) <br> <img src="https://avatars3.githubusercontent.com/u/23243521?s=460&v=4" width="100" height="100">        | China             | Java
 | [Batislav R](https://github.com/bracar/) <br> <img src="https://github.com/bracar.png" width="100" height="100">                   | Serbia                 | C, Python, JavaScript   |                                                                                               |
+
 | [Fred C](https://github.com/frexcur/) <br> <img src="https://github.com/frexcur.png" width="100" height="100">                     | United States          | JAVA                           |                                                                                               |
 | [Will Estes](https://github.com/Will-Estes) <br> <img src="https://avatars2.githubusercontent.com/u/16292483?s=460&v=4" width="100" height="100">       |United States       | Java       |                                                                                               |
 | [Cecil John Tantay](https://github.com/cjbt) <br> <img src="https://github.com/cjbt.png" width="100" height="100">      | United States                  | Javascript                             |                                                                                               |
@@ -102,6 +103,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
 | [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
 | [Trushita Maurya](https://github.com/trushita23) <br> <img src="https://github.com/trushita23.png" width="100" height="100">   | India   | Java 
+| [Lucas](https://github.com/RivkieKlein) <br> <img src="https://github.com/Foxi-GB.png" width="100" height="100">      | United Kingdom                  | Java                             |
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
