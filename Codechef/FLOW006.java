@@ -1,4 +1,5 @@
 public class FLOW006 {
+	//LMH - Basic method to solve FLOW006 problem. 
 	public static int sumOfDigits(int n) {
 		int num = n;
 		int sum = 0; 
@@ -11,4 +12,4 @@ public class FLOW006 {
 	}
 	
 }
-//LMH - Basic method to solve said problem. 
+
