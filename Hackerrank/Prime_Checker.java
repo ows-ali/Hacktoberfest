@@ -1,3 +1,9 @@
+/*
+
+  Hacker rank problem : https://www.hackerrank.com/challenges/prime-checker
+ 
+*/
+
 import java.io.*;
 import java.util.*;
 
