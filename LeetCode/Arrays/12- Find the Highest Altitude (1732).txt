@@ -1,0 +1,15 @@
+class Solution {
+    public int largestAltitude(int[] gain) {
+        int temp = 0;
+        int[] altitudes = new  int[(gain.length)+1];
+        for (int i=1; i < altitudes.length; i++){
+            altitudes[i] = temp+gain[i-1];
+            temp = altitudes[i];
+        }
+        int max = altitudes[0];
+        for (int i=0;  i < altitudes.length; i++){
+            max = Math.max(max, altitudes[i]);
+        }
+        return max;
+    }
+}

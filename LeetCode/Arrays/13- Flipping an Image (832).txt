@@ -1,0 +1,20 @@
+class Solution {
+    public int[][] flipAndInvertImage(int[][] image) {
+        for (int row=0; row < image.length; row++){
+            for (int col =0; col < image[row].length/2 ; col++){
+                int temp = image[row][col];
+                image[row][col] = image[row][image.length-1-col];
+                image[row][image.length-1-col] = temp;
+            }
+            
+            for (int col=0; col < image[row].length; col++){
+                if (image[row][col] == 1){
+                    image[row][col] = 0;
+                }else{
+                    image[row][col] = 1;
+                }
+            }
+        }
+        return image;
+    }
+}
