@@ -1,0 +1,17 @@
+class Solution {
+    public int findNumbers(int[] nums){
+        int count = 0;
+        for(int i: nums){
+            String num = (String.valueOf(i));
+            if (even(num)){
+                count++;
+            }
+        }
+
+        return count;
+    }
+
+    static boolean even(String num) {
+        return num.length() % 2 == 0;
+    }
+}
