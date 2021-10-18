@@ -1,0 +1,33 @@
+#include<iostream>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+void nextSmaller(char str[],int n){
+    int i;
+    for( i=n-1;i>0;--i){
+        if(str[i] > str[i-1]) break;
+    }
+    if(i == 0){
+        cout<<"not possible"<<endl;;
+        return;
+    } 
+    int x = str[i-1], smallest = i;
+    for(int j=i+1;j<n;++j){
+        if(str[j] > x && str[j] < str[smallest]) smallest = j;
+    }
+    swap(str[smallest],str[i-1]);
+    sort(str + i, str + n);
+    cout<<str<<endl;
+}
+
+int main() {
+	int t;cin>>t;
+	cin.get();
+	while(t--){
+	    char str[100];
+	    cin.getline(str,100);
+	    int n = strlen(str);
+	    nextSmaller(str,n);
+	}
+}

@@ -1,0 +1,16 @@
+void util(Node* root, int d,map<int,vector<int> > &m){
+    if(!root) return;
+    m[d].push_back(root->data);
+    util(root->left,d+1,m);
+    util(root->right,d,m);
+}
+
+void diagonalPrint(Node *root)
+{
+    map<int,vector<int> > m;
+    int d = 0;
+    util(root,d,m);
+    for(auto i = m.begin();i != m.end();++i){
+        for(int j=0;j<i->second.size();++j) cout<<i->second[j]<<" ";
+    }
+}
