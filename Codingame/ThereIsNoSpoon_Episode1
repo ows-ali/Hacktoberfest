@@ -1,9 +1,9 @@
 /**
- * Don't let the machines win. You are humanity's last hope...
+ * Don't let the machines win.  As You being the humanity's last hope...
  **/
 
-var width = parseInt(readline()); // the number of cells on the X axis
-var height = parseInt(readline()); // the number of cells on the Y axis
+var width = parseInt(readline()); // number of cells on the X axis
+var height = parseInt(readline()); // number of cells on the Y axis
 
 var grid = [];
 
