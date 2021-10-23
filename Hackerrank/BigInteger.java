@@ -1,5 +1,5 @@
 /**
-* https://www.hackerrank.com/challenges/java-biginteger/problem
+* https://www.hackerrank.com/challenges/java-biginteger/problem solving
 **/
 
 import java.io.*;
@@ -10,8 +10,8 @@ public class BigInteger {
 
     public static void main(String[] args) {      
         Scanner scan = new Scanner(System.in);
-        String a = scan.next();
-        String b = scan.next();
+        String a =scan.next();
+        String b =scan.next();
         BigInteger bi = new BigInteger(a);
 
         System.out.println(bi.add(new BigInteger(b)));
