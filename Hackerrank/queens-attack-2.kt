@@ -9,12 +9,12 @@ import kotlin.text.*
  * This problem comes from HackerRank: https://www.hackerrank.com/challenges/queens-attack-2/problem
  *
  * queensAttack() Function Description:
- * Given the queen's position and the locations of all the obstacles,
+ * Given the queen's position and the locations of all the obstacles on a chess board,
  * find and print the number of squares the queen can attack from her position at (r, c)
  *
  * @param:
  *   - int n: the number of rows and columns in the board
- *   - nt k: the number of obstacles on the board
+ *   - int k: the number of obstacles on the board
  *   - int r_q: the row number of the queen's position
  *   - int c_q: the column number of the queen's position
  *   - int obstacles[k][2]: each element is an array of integers, the row number and column number of an obstacle
@@ -35,68 +35,64 @@ import kotlin.text.*
  *
  */
 fun queensAttack(n: Int, k: Int, r_q: Int, c_q: Int, obstacles: Array<Array<Int>>): Int {
-    // subtract one to get the indices since r_q and c_q use base-1 indexing
-    val queenRow = r_q - 1
-    val queenCol = c_q - 1
+    val queenRow = r_q
+    val queenCol = c_q
 
-    val spacesUp = maxRowCol - queenRow
-    val spacesDown = queenRow
-    val spacesRight = maxRowCol - queenCol
-    val spacesLeft = queenCol
+    var spacesUp = n - queenRow
+    var spacesDown = queenRow - 1
+    var spacesRight = n - queenCol
+    var spacesLeft = queenCol - 1
+    var spacesUpperLeft = minOf(spacesUp, spacesLeft)
+    var spacesLowerRight = minOf(spacesDown, spacesRight)
+    var spacesUpperRight = minOf(spacesUp, spacesRight)
+    var spacesLowerLeft = minOf(spacesDown, spacesLeft)
 
-    val minimumSpacesToMove = mapOf(
-        Direction.UP to spacesUp,
-        Direction.DOWN to spacesDown,
-        Direction.RIGHT to spacesRight,
-        Direction.LEFT to spacesLeft,
-        Direction.UPPER_LEFT to minOf(spacesUp, spacesLeft),
-        Direction.LOWER_LEFT to minOf(spacesDown, spacesLeft),
-        Direction.UPPER_RIGHT to minOf(spacesUp, spacesRight),
-        Direction.LOWER_RIGHT to minOf(spacesDown, spacesRight)
-    )
-
-    // iterate through entire array of obstacles, keeping track of the ones closet to the queen in every direction
-    val nearestObstacles: HashMap<Direction, Pair<Int, Int>> = HashMap()
+    // Iterate through array of obstacles, calculating the distance between the queen and each obstacle.
+    // Keep track of the nearest obstacles by always storing the shortest distances.
     obstacles.forEach {
-        val obstacleRow = it[0] - 1
-        val obstacleCol = it[1] - 1
+        val obstacleRow = it[0]
+        val obstacleCol = it[1]
 
-        fun hasNegativeSlopeOf1(r1: Int, r2: Int, c1: Int, c2: Int) = (c2 - c1) == -1*(r2 - r1)
-        fun hasPositiveSlopeOf1(r1: Int, r2: Int, c1: Int, c2: Int) = (c2 - c1) == (r2 - r1)
+        fun hasNegativeSlopeOf1(row1: Int, row2: Int, col1: Int, col2: Int) = (row2 - row1) == -1 * (col2 - col1)
+        fun hasPositiveSlopeOf1(row1: Int, row2: Int, col1: Int, col2: Int) =  (row2 - row1) == (col2 - col1)
+        fun distanceBetween(num1: Int, num2: Int) = abs(num1 - num2) - 1
 
         when {
             queenCol == obstacleCol -> {
-                if (queenRow < obstacleRow) minimumSpacesToMove[Direction.UP] = minOf(minimumSpacesToMove[Direction.UP], obstacleRow - queenRow - 1)
-                else minimumSpacesToMove[Direction.DOWN] = minOf(minimumSpacesToMove[Direction.DOWN], queenRow - obstacleRow - 1)
+                val spacesBetweenRows = distanceBetween(obstacleRow, queenRow)
+                if (queenRow < obstacleRow) spacesUp = minOf(spacesUp, spacesBetweenRows)
+                else spacesDown = minOf(spacesDown, spacesBetweenRows)
             }
             queenRow == obstacleRow -> {
-                if (queenCol < obstacleCol) minimumSpacesToMove[Direction.RIGHT] = minOf(minimumSpacesToMove[Direction.RIGHT], obstacleCol - queenCol - 1)
-                else minimumSpacesToMove[Direction.LEFT] = minOf(minimumSpacesToMove[Direction.LEFT], queenCol - obstacleCol - 1)
+                val spacesBetweenColumns = distanceBetween(obstacleCol, queenCol)
+                if (queenCol < obstacleCol) spacesRight = minOf(spacesRight, spacesBetweenColumns)
+                else spacesLeft = minOf(spacesLeft, spacesBetweenColumns)
             }
-            // since the slope along the diagonal paths are 1 or -1, the difference in the rows and columns will be the same, so can use either
-            hasNegativeSlopeOf1(queenRow, obstacleRow, queenCol, obstacleCol) -> {
-                if (queenRow < obstacleRow) minimumSpacesToMove[Direction.UPPER_LEFT] = minOf(minimumSpacesToMove[Direction.UPPER_LEFT], obstacleRow - queenRow - 1)
-                else minimumSpacesToMove[Direction.LOWER_RIGHT] = minOf(minimumSpacesToMove[Direction.LOWER_RIGHT], queenRow - obstacleRow - 1)
-            }
+            // since the slope along the diagonal paths is 1 or -1,
+            // the difference in the rows and columns will be the same, so can use either
             hasPositiveSlopeOf1(queenRow, obstacleRow, queenCol, obstacleCol) -> {
-                if (queenRow < obstacleRow) minimumSpacesToMove[Direction.UPPER_RIGHT] = minOf(minimumSpacesToMove[Direction.UPPER_RIGHT], obstacleRow - queenRow - 1)
-                else minimumSpacesToMove[Direction.LOWER_LEFT] = minOf(minimumSpacesToMove[Direction.LOWER_LEFT], queenRow - obstacleRow - 1)
+                val spacesBetweenRows = distanceBetween(obstacleRow, queenRow)
+                if (queenRow < obstacleRow) spacesUpperRight = minOf(spacesUpperRight, spacesBetweenRows)
+                else spacesLowerLeft = minOf(spacesLowerLeft, spacesBetweenRows)
+            }
+            hasNegativeSlopeOf1(queenRow, obstacleRow, queenCol, obstacleCol) -> {
+                val spacesBetweenRows = distanceBetween(obstacleRow, queenRow)
+                if (queenRow < obstacleRow) spacesUpperLeft = minOf(spacesUpperLeft, spacesBetweenRows)
+                else spacesLowerRight = minOf(spacesLowerRight, spacesBetweenRows)
             }
         }
-
-    // calculate spaces moved along each direction by passing in the nearest obstacle coordinates or the game board size
-    return Direction.values().sumBy { minimumSpacesToMove[it] }
-}
-
-enum class Direction {
-    LEFT,
-    RIGHT,
-    UP,
-    DOWN,
-    UPPER_LEFT,
-    UPPER_RIGHT,
-    LOWER_LEFT,
-    LOWER_RIGHT
+    }
+    val allMoves = listOf(
+        spacesUp,
+        spacesDown,
+        spacesRight,
+        spacesLeft,
+        spacesUpperLeft,
+        spacesLowerRight,
+        spacesUpperRight,
+        spacesLowerLeft
+    )
+    return allMoves.sumBy { it }
 }
 
 /** The logic in main() was provided by HackerRank  */
