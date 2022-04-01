@@ -1,4 +1,4 @@
-﻿# Hacktoberfest
+# Hacktoberfest
 
 [![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/issues)
@@ -29,6 +29,7 @@ In this repository, you can find the solutions (as source code) for the problems
 
 | Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
+| [AndValsamis](https://github.com/AndValsamis/) <br> <img src="https://avatars3.githubusercontent.com/u/34138598?s=88&v=4" width="100" height="100">               | Greece              | JAVASCRIPT                       |https://www.hackerrank.com/andval                                                                                               |
 | [Owais Ali](https://github.com/owaisalics/) <br> <img src="https://github.com/ows-ali.png" width="100" height="100">               | Pakistan              | JAVA                           |                                                                                               |
 | [Yuibun](https://github.com/yuibun/) <br> <img src="https://github.com/yuibun.png" width="100" height="100">                       | United States         | C++                            |                                                                                               |
 | [Roopam Sharma](https://github.com/RoopamSharma/) <br> <img src="https://github.com/RoopamSharma.png" width="100" height="100">    | United States         | Python3                        |                                                                                               |
@@ -75,7 +76,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Ken Vader](https://github.com/kenvader) <br> <img src="https://github.com/kenvader.png" width="100" height="100">                             | United States         | Java                   |                                                                                           |      
 | [Dhiego Bersan](https://github.com/dhiegomaga/) <br> <img src="https://avatars0.githubusercontent.com/u/25873377?s=460&v=4" width="100" height="100">              | Brazil            	   |                    |                                                                           |
 | [Nishita Dutta](https://github.com/nish-d) <br> <img src="https://avatars1.githubusercontent.com/u/15178729?s=460&v=4" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/nish_d                                            |
-| [Oskari Kotajärvi](https://github.com/oskarikotajarvi) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">              | Finland           	   | Java             |                                                                                           |
+| [Oskari Kotaj�rvi](https://github.com/oskarikotajarvi) <br> <img src="https://github.com/oskarikotajarvi.png" width="100" height="100">              | Finland           	   | Java             |                                                                                           |
 | [Hari](https://github.com/harimadhavan2000) <br> <img src="https://github.com/harimadhavan2000.png" width="100" height="100">      | India                  | C#                             |                                                                                               |
 | [RISHABH KEMNI](https://github.com/rishabhkemni/) <br>              | india              | python,c++                          | 
 | [Yang](https://github.com/Yang8547/) <br> <img src="https://avatars3.githubusercontent.com/u/23243521?s=460&v=4" width="100" height="100">        | China             | Java
