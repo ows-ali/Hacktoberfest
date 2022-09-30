@@ -39,4 +39,5 @@ public class BinaryNumbers {
         System.out.println(max);
         scanner.close();
     }
+    System.out.println("successfully");
 }
