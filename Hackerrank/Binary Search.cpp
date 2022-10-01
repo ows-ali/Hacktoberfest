@@ -1,3 +1,23 @@
+///////////////////////////////////
+// BinarySearch Algorithm 
+// for Sorted Array
+///////////////////////////////////
+
+// 1-We begin with the mid element of array and use it as a search key.
+// 2-If the value of the search key is equal to the item 
+// then return an index of the search key OR
+// 3-If the value of the search key is less than the item in the middle of the interval,
+// narrow the interval to the lower half.
+
+// 4-Otherwise, narrow it to the upper half.
+// 5-Repeatedly check from the second point until the value is found 
+// or the interval is empty.
+
+// Binary Search Algorithm can be implemented in the following two ways
+// 1-Iterative Method
+// 2-Recursive Method
+
+// The code below is using the Recursive method
 #include<bits/stdc++.h>
 using namespace std;
 //funtion for implementing binary search
@@ -5,15 +25,22 @@ int binarySearch(int *input,int beg,int end,int number){
     if(beg>end){
         return -1;
     }
+
+    // get the mid element of the array
     int mid = (beg+end)/2;
+
+    // if the mid element is equal to the item
+    // then return the index of the item
     if(number == input[mid]){
         return mid;
     }
-    //Search left sub array
+    
+    //if the value of the search key is less than the item in the middle of the interval
+    //narrow the interval to the lower half
     if(number<input[mid]){
         return binarySearch(input,beg,mid-1,number);
     }
-    //Search right sub array
+    //Otherwise, narrow it to the upper half.
     else{
         return binarySearch(input,mid+1,end,number);
     }
