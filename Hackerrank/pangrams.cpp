@@ -1,24 +1,17 @@
-#include <iostream>
-#include <algorithm>
-#include <set>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    string sen;
-    getline(cin,sen);
-    transform(sen.begin(), sen.end(), sen.begin(), ::tolower);
-    set<char> letters;
+    string st;
+    getline(cin,st);
+    transform(st.begin(), st.end(), st.begin(), ::tolower);
+    set<char> total_letter;
     
-    for (size_t i = 0; i < sen.size(); i++){
-        if (isalpha(sen[i])) {
-            letters.insert(sen[i]);
+    for (auto i = 0; i < st.size(); i++){
+        if (isalpha(st[i])) {
+            total_letter.insert(st[i]);
         }
     }
-    if (letters.size() == 26) {
-        cout << "pangram" << endl;
-    } else {
-        cout << "not pangram" << endl;
-    }
+    total_letter.size() == 26 ? cout<<"pangram\n" : cout<<"not pangram\n";
     return 0;
 }
