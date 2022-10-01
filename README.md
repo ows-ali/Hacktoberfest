@@ -102,7 +102,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
 | [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
 | [Trushita Maurya](https://github.com/trushita23) <br> <img src="https://github.com/trushita23.png" width="100" height="100">   | India   | Java 
-| [Aman Agrawal](https://github.com/amanagr6697) <br> <img src="https://user-images.githubusercontent.com/95862904/193427537-6355a3bf-fbfe-4bf2-9656-a07417b8881c.jpg" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/iam0_1      
+| [Aman Agrawal](https://github.com/amanagr6697) <br> <img src="https://user-images.githubusercontent.com/95862904/193427617-2ae472cb-44ad-49db-a4a9-c7e7fd7813b0.jpg" width="100" height="100">              | India           	   | C++              |  https://www.codechef.com/users/iam0_1      
 
 ### License
 
