@@ -66,6 +66,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Ouassim Ben Mosbah](https://github.com/ouassimBenMosbah) <br> <img src="https://github.com/ouassimBenMosbah.png" width="100" height="100">   | Tunisia    | Javascript                     |                                                                                               |
 | [Sachin Bajpai](https://github.com/sachinbajpai100) <br> <img src="https://github.com/sach.png" width="100" height="100">          | India                 | C                              |                                                                                               |
 | [Kalana Wijethunga](https://github.com/kdan-96) <br> <img src="https://github.com/kdan-96.png" width="100" height="100">           | Sri Lanka             |                                |                                                                                               |
+| [Syed Aasim](https://github.com/aasim-syed) <br> <img src="https://github.com/aasim-syed.png" width="100" height="100">      | India   | JavaScript,Java,Py  |   
+
 | [Avinash](https://github.com/Avinash369/) <br> <img src="https://github.com/Avinash369.png" width="100" height="100">              | India            	   | JavaScript                     |                                                                                               |
 | [AmberRoberts](https://github.com/AmberRoberts) <br> <img src="https://avatars1.githubusercontent.com/u/37091996?s=460&v=4" width="100" height="100">      | United States    | JavaScript  |                                                                                               |
 | [Keshi](https://github.com/anukeshi/) <br> <img src="https://avatars3.githubusercontent.com/u/30332391?s=400&u=cc49affc870c5bd6e41b76a1ffd57771dcfeb418&v=4" width="100" height="100">              | Sri Lanka            	   | Python                   |                                 |
@@ -102,6 +104,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
 | [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
 | [Trushita Maurya](https://github.com/trushita23) <br> <img src="https://github.com/trushita23.png" width="100" height="100">   | India   | Java 
+
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
