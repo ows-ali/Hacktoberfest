@@ -101,7 +101,8 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Lam Tran](https://github.com/Lam7150) <br> <img src="https://avatars2.githubusercontent.com/u/29765024?s=460&v=4" width="100" height="100">      | United States                  | Java                            |     http://linkedin.com/in/lamgtran/                                                        |
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
 | [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
-| [Trushita Maurya](https://github.com/trushita23) <br> <img src="https://github.com/trushita23.png" width="100" height="100">   | India   | Java 
+| [Trushita Maurya](https://github.com/trushita23) <br> <img src="https://github.com/trushita23.png" width="100" height="100">   | India   | Java |
+| [Akash Badone](https://github.com/akashbadone) <br> <img src="http://4.bp.blogspot.com/-241aDIKpl_o/XxHu-hRi68I/AAAAAAAAiG8/LlV3ju7u13sQSNrlBNgho40U19hMXiK1QCK4BGAYYCw/s1600/kash.jpg" width="100" height="100">   | India   | Java, C#, PHP | https://www.linkedin.com/in/akashbadone/    https://www.hackerrank.com/akashbadone
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)

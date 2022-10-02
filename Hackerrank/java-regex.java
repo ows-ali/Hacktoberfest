@@ -1,4 +1,4 @@
-// Write a class called MyRegex which will contain a string pattern. 
+// Question: Write a class called MyRegex which will contain a string pattern. 
 // You need to write a regular expression and assign it to the pattern such that it can be used to validate an IP address.
 
 import java.util.regex.Matcher;
