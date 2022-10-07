@@ -1,0 +1,56 @@
+#!/usr/bin/python
+
+def displayPathtoPrincess(n,grid):
+    p_x = 0
+    p_y = 0
+    
+    m_x = 0
+    m_y = 0
+    
+    #find position of princess
+    for i in range(n):
+        for j in range(n):
+            if (grid[i][j] == 'p'):
+                p_x = i;
+                p_y = j;
+                
+    #find position of mario
+    for i in range(n):
+        for j in range(n):
+            if (grid[i][j] == 'm'):
+                m_x = i;
+                m_y = j;  
+        
+        '''
+        c - c
+        - m - 
+        c - c
+        
+        [0,0] [1, 0] [2, 0]
+        [0, 1] [1, 1] [2, 1]
+        [0, 2] [1, 2] [2, 2]
+        '''
+    #move Mario to Princess by calculating distance
+    while ((m_x != p_x) and (m_y != p_y)):
+        if (m_x > p_x): 
+            print('LEFT')
+            m_x = m_x - 1
+        if (m_x < p_x): 
+            print('RIGHT')
+            m_x = m_x + 1
+        if (m_y > p_y): 
+            print('UP')
+            m_y = m_y - 1
+        if (m_y < p_y): 
+            print('DOWN')
+            m_y = m_y + 1
+        
+    
+#print all the moves here
+
+m = int(input())
+grid = [] 
+for i in range(0, m): 
+    grid.append(input().strip())
+
+displayPathtoPrincess(m,grid)
