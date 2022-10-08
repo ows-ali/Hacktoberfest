@@ -1,0 +1,18 @@
+import java.util.*;
+public class reverse_of_a_number {
+    public static void main(String args[]){
+        Scanner scan=new Scanner(System.in);
+
+        System.out.print("input the nmber to be reversed: ");
+        int n=scan.nextInt();
+
+        //reverse the given number:-
+        int rev=0;
+        while(n>0){
+            int lastDigit=n%10;
+            rev=(rev*10)+lastDigit;
+            n=n/10;
+        }System.out.println(rev);
+
+        }
+    }
