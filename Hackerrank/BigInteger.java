@@ -1,20 +1,17 @@
-/**
-* https://www.hackerrank.com/challenges/java-biginteger/problem
-**/
-
-import java.io.*;
+import java.math.BigInteger;  
 import java.util.*;
-import java.math.BigInteger;
+import java.io.*;
 
-public class BigInteger {
-
-    public static void main(String[] args) {      
-        Scanner scan = new Scanner(System.in);
-        String a = scan.next();
-        String b = scan.next();
-        BigInteger bi = new BigInteger(a);
-
-        System.out.println(bi.add(new BigInteger(b)));
-        System.out.println(bi.multiply(new BigInteger(b)));
-    }
-}
+public class BigIntegerExample1 {  
+    public static void main(String args[]) {  
+        Scanner sc=new Scanner (System.in);
+        BigInteger bigInteger = new BigInteger("1");   
+        int a=sc.nextInt();
+        
+        for (int i = 2; i<=a ; i++)
+        {  
+            bigInteger = bigInteger.multiply(BigInteger.valueOf(i));  
+        }  
+        System.out.println("Factorial of the number is : "+bigInteger); 
+    }  
+} 
