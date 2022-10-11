@@ -1,4 +1,6 @@
+#include <iostream>
 
+using namespace std;
 /*
  * Create classes Rectangle and RectangleArea
  */
