@@ -104,4 +104,6 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Trushita Maurya](https://github.com/trushita23) <br> <img src="https://github.com/trushita23.png" width="100" height="100">   | India   | Java 
 ### License
 
+| [Ryan Hidalgo](https://github.com/nayr-ogladih) <br> <img src="https://github.com/nayr-ogladih.png" width="100" height="100">   | United States    |   Python   | https://github.com/nayr-ogladih   |
+
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
