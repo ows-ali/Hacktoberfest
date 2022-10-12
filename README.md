@@ -105,3 +105,4 @@ In this repository, you can find the solutions (as source code) for the problems
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
+[Shraddha Singh](https://github.com/shraddha761)<br> <img src ="https://github.com/shraddha761.png" width="100" height="100">    |India     |Java
