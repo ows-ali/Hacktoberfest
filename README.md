@@ -105,3 +105,10 @@ In this repository, you can find the solutions (as source code) for the problems
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
+
+
+
+| [Lateef Habeeb](https://github.com/devhabeeblateef) <br> <img src="https://github.com/devhabeeblateef.png" width="100" height="100">   | Nigeria  | JavaScript 
+### License
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
