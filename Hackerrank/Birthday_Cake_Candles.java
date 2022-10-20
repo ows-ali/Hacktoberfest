@@ -1,17 +1,25 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
 public class Birthday_Cake_Candles {
-  static int birthdayCakeCandles(int[] ar) {
-    if(ar!=null && ar.length>0) {
-      int maxHeight=0, numMaxHeight=1;
-      for(int i=0; i<ar.length; i++) {
-        if(maxHeight<ar[i]) {
-          maxHeight=ar[i];
-          numMaxHeight=1;
-        }else if(maxHeight==ar[i]) {
-          numMaxHeight++;
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int tallest = 0;
+        int frequency = 0;
+       
+        for(int i=0; i < n; i++){
+            int height = in.nextInt();
+            
+            if(height > tallest){
+                tallest = height;
+                frequency = 1;
+            }
+            else if(height == tallest) frequency++;
         }
-      }
-      return numMaxHeight;
+        System.out.println(frequency);
     }
-    return 0;
-  }
 }
