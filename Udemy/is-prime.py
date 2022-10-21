@@ -11,3 +11,4 @@ def is_prime(number):
     
 print(is_prime(15))
 print(is_prime(10))
+print(is_prime(20))
