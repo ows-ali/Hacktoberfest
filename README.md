@@ -102,6 +102,7 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
 | [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
 | [Trushita Maurya](https://github.com/trushita23) <br> <img src="https://github.com/trushita23.png" width="100" height="100">   | India   | Java 
+| [Vaishnavi More](https://github.com/Vaishnavi-More) <br> <img src="https://github.com/Vaishnavi-More/Image/blob/main/IMG-20220307-WA0079.jpg" width="100" height="100"> |  India   | C++ | 
 ### License
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
