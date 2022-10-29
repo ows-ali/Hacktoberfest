@@ -6,20 +6,20 @@
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/ows-ali/Hacktoberfest.svg)](https://github.com/ows-ali/Hacktoberfest/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr/ows-ali/Hacktoberfest.svg)](https://github.com/ows-ali/Hacktoberfest/pulls?q=is%3Aopen+is%3Apr)
 
-This repository is mainly open to those who are looking to make some PR for the Hacktoberfest event, and to get started with GitHub and the open-source world.
-In this repository, you can find the solutions (as source code) for the problems in [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) or any other online platform
+This repository is mainly open to those who are looking to make some PRs for the Hacktoberfest event, and to get started with GitHub and the open-source world.
+In this repository, you can find the solutions (as source code) for the problems in [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) or any other online platform.
 
-### Why contribute to this repository
+### Why contribute to this repository?
 - Beginner-friendly
 - Create your first Pull Request on GitHub
-- Start with any problem of your choice on [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) etc
+- Start with any problem of your choice on [HackerRank](https://hackerrank.com), [Codechef](https://codechef.com) etc.
 - Chance of receiving a T-Shirt for participating in the [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 
-### How to Contribute (Updated)
+### How to contribute? (Updated)
 - For contributions in this repository, please read `CONTRIBUTING.md` first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
 - If you like the repository, please star it.
 
-### Learning Resources
+### Learning resources
 
 [Creating a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
@@ -102,6 +102,6 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Nauman Chaudhary](https://github.com/nauman-chaudhary) <br> <img src="https://github.com/nauman-chaudhary.png" width="100" height="100">   | Pakistan   | Python |   |
 | [Gourav Rusiya](https://github.com/GouravRusiya30) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">   | India   | Java | https://www.hackerrank.com/gouravrusiya786  |
 | [Trushita Maurya](https://github.com/trushita23) <br> <img src="https://github.com/trushita23.png" width="100" height="100">   | India   | Java 
-### License
+### Licence
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ows-ali/Hacktoberfest/blob/master/LICENSE)
