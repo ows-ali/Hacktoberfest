@@ -18,7 +18,8 @@ public class Solution {
         int n = Integer.parseInt(nd[0]);
 
         int d = Integer.parseInt(nd[1]);
-
+        //checking value
+        System.out.print(d);
         int[] a = new int[n];
         
         String[] aItems = scanner.nextLine().split(" ");
