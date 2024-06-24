@@ -1,0 +1,12 @@
+https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign&isFullScreen=true&h_r=next-challenge&h_v=zen
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+
+# declare variables
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+
+# print result of squaring numbers
+print( pow(a, b) + pow(c, d) )
