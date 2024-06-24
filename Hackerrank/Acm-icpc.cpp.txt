@@ -1,0 +1,49 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int n,m,i,j,k;
+    cin >> n >> m;
+   vector<string> a; int b[n][n];
+    for(i=0;i<n;i++)
+    {
+        string x;cin>>x;a.push_back(x);
+    }
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<n;j++)
+        b[i][j]=0;
+    }
+    for(i=0;i<n-1;i++)
+    {
+        for(k=i+1;k<n;k++)
+        {
+           for(j=0;j<m;j++)
+           {
+               if(a[i][j]=='1' || a[k][j]=='1')
+                 b[i][k]++;
+             
+           }
+
+
+        }
+    }
+    m=0;
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<n;j++)
+        m=max(m,b[i][j]);
+    }
+    cout <<m<<endl;
+    int ans=0;
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<n;j++)
+        if(b[i][j]==m)
+         ans++;
+    }
+    cout<<ans;
+    return 0;
+}
