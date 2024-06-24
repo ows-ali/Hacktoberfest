@@ -1,0 +1,23 @@
+// Spencer Fulgham
+// srfulgha
+// PA2
+// No special instructions to compile or run program
+
+List.c
+	serves as an ADT for Sparse and ListTest
+Matrix.c
+	takes input file, sorts lines, and stores to an output file
+List.h
+	serves as an interface for List.c ADT
+Matrix.h
+	serves as a tester for the Matrix.c ADT
+Sparse.c
+	creates arrays of lists to simulate a martix
+ListTest.c
+	tester to assure that list.c works as intended 
+MatrixTest.c
+	tester to assure that matrix.c works as intended
+Makefile
+	makes, runs, and submits the assignment pa2
+README
+	table of context
