@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    unsigned long long n,a,count=0,x,y;
+    string s;
+    cin>>s>>n;
+    a=s.length();
+    for(int i=0;i<a;i++)
+    {
+        if(s[i]=='a')
+        count++;
+    }
+    x=n%a;
+    y=n/a;
+    count*=y;
+    for(int i=0;i<x;i++)
+    {
+        if(s[i]=='a')
+        count++;
+    }
+    cout<<count;
+}
