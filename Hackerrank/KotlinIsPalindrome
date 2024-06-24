@@ -1,0 +1,18 @@
+import java.util.*
+
+
+
+    fun main() {
+        val original: String
+        var reverse = "" // Objects of String class
+        val `in` = Scanner(System.`in`)
+        println("Enter a string to check if it is a palindrome")
+        original = `in`.nextLine()
+        val length = original.length
+        for (i in length - 1 downTo 0)
+            reverse += original[i]
+        if (original == reverse)
+            println("Entered string is a palindrome.")
+        else
+            println("Entered string isn't a palindrome.")
+    }
