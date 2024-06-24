@@ -27,7 +27,7 @@ long nC2(long temp)
 
 int main()
 {
-	int test, N, i, j, evn, odd;
+	int test=0, N=0, i=0, j=0, evn=0, odd=0;
 	long ans, neg;
 	cin >> test;
 	while(test--)
