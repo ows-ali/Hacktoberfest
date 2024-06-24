@@ -9,5 +9,12 @@ def is_prime(number):
             
     return True
     
-print(is_prime(15))
-print(is_prime(10))
+if __name__=='__main__':
+    n=int(input("Enter your number to be checked")
+    a=is_prime(n)
+    if a==True:
+          print("Prime")
+    else:
+          print("Not prime")
+#print(is_prime(15))
+#print(is_prime(10))
