@@ -7,7 +7,7 @@
 - Paste the solution code in new file and name it in following format:
 PROBLEM_NAME.[Format of language used in your code]
 (you should match it with the url, such that when a user type the url 
-hackkerrank.com/challenges/PROBLEM_NAME/problem 
+hackerrank.com/challenges/PROBLEM_NAME/problem 
 codechef.com/problems/PROBLEM_NAME
 and so on
 it will be redirected to the actual problem page)
