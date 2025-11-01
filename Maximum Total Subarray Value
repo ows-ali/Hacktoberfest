@@ -1,0 +1,16 @@
+long long maxTotalValue(int* nums, int numsSize, int k) {
+ int mind=nums[0];
+    int maxd= nums[0];
+    for(int i=0;i<numsSize;i++){
+        if(nums[i]<mind){
+            mind=nums[i];
+        }        
+        if(nums[i]>maxd){
+            maxd=nums[i];
+        }
+    }
+    long long sormadexin =(long long)(maxd-mind);
+    
+       return sormadexin * k; 
+    
+}
